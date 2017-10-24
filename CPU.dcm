@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATTINY13-S8S2
+F D:/Инфа/CPU/ATtiny/attiny13.pdf
+$ENDCMP
+#
+$CMP LPC11A14FHN33
+F D:/Инфа/CPU/LPC/LPC11Axx/LPC11Axx_UM10527.pdf
+$ENDCMP
+#
+$CMP LPC1768FBD100
+F D:/Инфа/CPU/LPC/LPC1768_66_65_64.pdf
+$ENDCMP
+#
+$CMP TMS320DM365
+D Digital Media Processor
+$ENDCMP
+#
+#End Doc Library

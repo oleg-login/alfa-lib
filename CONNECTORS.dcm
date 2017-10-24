@@ -1,0 +1,40 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DG301-5.0-02P
+D Клеммник винтовой 2-контактный шаг 5мм
+F D:/Инфа/Разъемы/Degson/DG301-5.0.pdf
+$ENDCMP
+#
+$CMP DG301-5.0-03P
+D Клеммник винтовой 3-контактный шаг 5мм
+F D:/Инфа/Разъемы/Degson/DG301-5.0.pdf
+$ENDCMP
+#
+$CMP DG301-5.0-04P
+D Клеммник винтовой 4-контактный шаг 5мм
+F D:/Инфа/Разъемы/Degson/DG301-5.0.pdf
+$ENDCMP
+#
+$CMP DG301-5.0-12P
+D Клеммник винтовой 12-контактный шаг 5мм
+F D:/Инфа/Разъемы/Degson/DG301-5.0.pdf
+$ENDCMP
+#
+$CMP IDC-06MS
+F D:/Инфа/Разъемы/IDC/IDC.pdf
+$ENDCMP
+#
+$CMP IDC-10MS
+F D:/Инфа/Разъемы/IDC/IDC.pdf
+$ENDCMP
+#
+$CMP J0011D21BNL
+F D:/Инфа/Разъемы/Ethernet/PulseJack RJ45.pdf
+$ENDCMP
+#
+$CMP PLD-14
+D Штыри двухрядные 2.54мм
+F D:/Инфа/Разъемы/PLD/PLD.pdf
+$ENDCMP
+#
+#End Doc Library

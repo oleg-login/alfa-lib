@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5933YRSZ
+D 1 MSPS, 12-Bit Impedance Converter, Network Analyzer
+F D:/Инфа/RLC/AD5933.pdf
+$ENDCMP
+#
+$CMP CP2102GM
+D USB to COM Driver
+K USB to COM Driver
+F D:/Инфа/USB to UART Bridge/CP2102-9.pdf
+$ENDCMP
+#
+$CMP TTP223-BA6
+D USB to COM Driver
+K USB to COM Driver
+F D:/Инфа/USB to UART Bridge/CP2102-9.pdf
+$ENDCMP
+#
+#End Doc Library

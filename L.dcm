@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LQH43MN4R7K03
+F D:/Инфа/ДРОССЕЛИ и ФЕРРИТЫ/LQH/LQH55DN.pdf
+$ENDCMP
+#
+$CMP LQH55DN100M03
+D Дроссель 10 мкГн
+F D:/Инфа/ДРОССЕЛИ и ФЕРРИТЫ/LQH/LQH55DN.pdf
+$ENDCMP
+#
+$CMP LQH55DN4R7M03
+D Дроссель 4,7 мкГн
+F D:/Инфа/ДРОССЕЛИ и ФЕРРИТЫ/LQH/LQH55DN.pdf
+$ENDCMP
+#
+#End Doc Library

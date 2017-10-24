@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LP16-1400F
+F D:/Инфа/Предохранители/lp16.pdf
+$ENDCMP
+#
+$CMP MF-MSMF110
+F D:/Инфа/Предохранители/MFMSMF.pdf
+$ENDCMP
+#
+#End Doc Library

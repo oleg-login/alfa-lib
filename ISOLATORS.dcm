@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADUM1401ARW/SO-16
+D Цифровой изолятор
+F D:/Инфа/Изоляторы/adum1400crw.pdf
+$ENDCMP
+#
+$CMP ADUM7640ARQZ/QSOP-20
+D Цифровой изолятор
+F D:/Инфа/Изоляторы/ADuM7640_7641_7642_7643.pdf
+$ENDCMP
+#
+#End Doc Library

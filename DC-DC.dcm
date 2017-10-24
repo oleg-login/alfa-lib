@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM1117MPX-ADJ/SOT-223
+D 800mA Low-Dropout Linear Regulator Vref=1.25V
+F D:/Инфа/DC-DC/lm1117.pdf
+$ENDCMP
+#
+$CMP MCP1825-ADJ/SOT-223-5
+D 500mA Low-Dropout Linear Regulator Vref=0.41V
+F D:/Инфа/DC-DC/MCP1825.pdf
+$ENDCMP
+#
+$CMP SPX3819M5-L-1-8
+D LDO Vout=1.8V SOT-23-5
+F D:/Инфа/DC-DC/SPX3819.pdf
+$ENDCMP
+#
+$CMP SPX3819M5-L-3-3
+D LDO Vout=3.3V SOT-23-5
+F D:/Инфа/DC-DC/SPX3819.pdf
+$ENDCMP
+#
+$CMP ST1S14PHR
+D 3A step-down switching regulator 850 kHz
+F D:/Инфа/DC-DC/ST1S14.pdf
+$ENDCMP
+#
+$CMP TL431CD
+F D:/Инфа/Стабилизатор напряжения/TL431.pdf
+$ENDCMP
+#
+$CMP TL431ID
+F D:/Инфа/Стабилизатор напряжения/TL431.pdf
+$ENDCMP
+#
+#End Doc Library

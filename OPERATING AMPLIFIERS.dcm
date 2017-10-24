@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8531AR/SO-8
+F D:/Инфа/ОУ/AD8531_32_34.pdf
+$ENDCMP
+#
+$CMP AD8541AR/SO-8
+F D:/Инфа/ОУ/AD8541_42_44.pdf
+$ENDCMP
+#
+$CMP AD8542AR/SO-8
+F D:/Инфа/ОУ/AD8541_42_44.pdf
+$ENDCMP
+#
+#End Doc Library

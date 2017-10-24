@@ -1,0 +1,96 @@
+EESchema-LIBRARY Version 2.3  Date: 06.07.2012 15:43:11
+#encoding utf-8
+#
+# DT-38T-32768
+#
+DEF DT-38T-32768 BQ 0 0 N N 1 F N
+F0 "BQ" -150 100 60 H V C CNN
+F1 "DT-38T-32768" 15 -235 60 H V C CNN
+F2 "DT-38T" 420 120 60 H I C CNN
+F3 "No" 310 200 60 H I C CNN
+F4 "Кварцевый резонатор DT-38T 32768Гц" 1170 700 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1380 610 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 560 530 60 H I C CNN "DistributorPartNumber"
+F7 "No" 310 440 60 H I C CNN "FP_AP"
+F8 "шт." 320 370 60 H I C CNN "ID_AP"
+F9 "No  " 360 280 60 H I C CNN "Toleranc_AP"
+DRAW
+P 3 0 1 0  -80 50  80 50  80 50 N
+P 5 0 1 0  -80 -50  80 -50  80 -50  80 -50  80 -50 N
+P 7 0 1 0  -110 20  120 20  120 -20  -110 -20  -110 20  -110 20  -110 20 N
+X ~ 1 0 150 100 D 50 50 1 1 P
+X ~ 2 0 -150 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# HC-08-DY-50Гц-3.3V
+#
+DEF HC-08-DY-50Гц-3.3V DD 0 40 Y Y 1 F N
+F0 "DD" 20 260 60 H V C CNN
+F1 "HC-08-DY-50Гц-3.3V" 0 -270 60 H V C CNN
+F2 "HC-08-DY" 600 420 60 H I C CNN
+F3 "No" 410 340 60 H I C CNN
+F4 "Кварцевый генератор" 850 970 60 H I C CNN "Description_AP"
+F5 "ООО @Кварц-1@ тел. (495) 963-6120  " 1305 875 60 H I C CNN "Distributor_AP"
+F6 "www.quartz1.ru" 690 790 60 H I C CNN "DistributorPartNumber"
+F7 "DIL-8" 480 680 60 H I C CNN "FP_AP"
+F8 "шт." 420 600 60 H I C CNN "ID_AP"
+F9 "No" 410 500 60 H I C CNN "Toleranc_AP"
+DRAW
+P 3 0 1 0  -100 200  -100 -200  -100 -200 N
+P 3 0 1 0  100 200  100 -200  100 -200 N
+P 7 0 1 0  -100 200  -300 200  -300 -200  300 -200  300 200  -100 200  -100 200 N
+X NC 1 500 -100 200 L 50 50 1 1 P
+X GND 4 -500 -100 200 R 50 50 1 1 P
+X OUT 5 500 100 200 L 50 50 1 1 P
+X VIN 8 -500 100 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# HC-49U
+#
+DEF HC-49U BQ 0 0 N N 1 F N
+F0 "BQ" -150 100 60 H V C CNN
+F1 "HC-49U" -210 -110 60 H V C CNN
+F2 "HC-49U" 440 120 60 H I C CNN
+F3 "No" 310 200 60 H I C CNN
+F4 "Кварцевый резонатор HC-49U" 980 710 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1380 610 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 560 530 60 H I C CNN "DistributorPartNumber"
+F7 "HC-49U" 440 440 60 H I C CNN "FP_AP"
+F8 "шт." 320 370 60 H I C CNN "ID_AP"
+F9 "No  " 360 280 60 H I C CNN "Toleranc_AP"
+DRAW
+P 3 0 1 0  -80 50  80 50  80 50 N
+P 5 0 1 0  -80 -50  80 -50  80 -50  80 -50  80 -50 N
+P 7 0 1 0  -110 20  120 20  120 -20  -110 -20  -110 20  -110 20  -110 20 N
+X ~ 1 0 150 100 D 50 50 1 1 P
+X ~ 2 0 -150 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SG8002LB
+#
+DEF SG8002LB DD 0 40 Y Y 1 F N
+F0 "DD" 20 260 60 H V C CNN
+F1 "SG8002LB" 0 -270 60 H V C CNN
+F2 "No" 410 420 60 H I C CNN
+F3 "No" 410 340 60 H I C CNN
+F4 "Кварцевый генератор SG8002LB" 1100 990 60 H I C CNN "Description_AP"
+F5 "ЗАО @Специал электроник@ тел. (812)438-1029 " 1515 885 60 H I C CNN "Distributor_AP"
+F6 "www.sg8002.ru" 690 790 60 H I C CNN "DistributorPartNumber"
+F7 "SMD" 440 680 60 H I C CNN "FP_AP"
+F8 "шт." 420 600 60 H I C CNN "ID_AP"
+F9 "No" 410 500 60 H I C CNN "Toleranc_AP"
+DRAW
+P 3 0 1 0  -100 200  -100 -200  -100 -200 N
+P 3 0 1 0  100 200  100 -200  100 -200 N
+P 7 0 1 0  -100 200  -300 200  -300 -200  300 -200  300 200  -100 200  -100 200 N
+X OE 1 -500 100 200 R 50 50 1 1 P
+X GND 2 -500 -100 200 R 50 50 1 1 I
+X OUT 3 500 100 200 L 50 50 1 1 I
+X VCC 4 500 -100 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,274 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# R
+#
+DEF R R 0 0 N N 1 F N
+F0 "R" -20 100 60 H V C CNN
+F1 "R" -50 -100 60 H V C CNN
+F2 "smd:SM-R-0805" 190 260 60 H I C CNN
+F3 "No" 190 180 60 H I C CNN
+F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1250 670 60 H I C CNN "Distributor_AP"
+F5 "www.platan.ru" 440 580 60 H I C CNN "DistributorPartNumber"
+F6 "No" 190 340 60 H I C CNN "FP_AP"
+F7 "шт." 200 510 60 H I C CNN "ID_AP"
+F8 "No" 190 430 60 H I C CNN "Toleranc_AP"
+F9 "Резистор" 340 770 60 H I C CNN "Description_AP"
+DRAW
+S -100 50 100 -50 0 1 0 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RN
+#
+DEF RN RN 0 0 N N 1 F N
+F0 "RN" -20 100 60 H V C CNN
+F1 "RN" 0 -400 60 H V C CNN
+F2 "smd:SM-R-CAT16" 700 -400 60 H I C CNN
+F3 "No" 440 -470 60 H I C CNN
+F4 "Резисторная сборка" 800 100 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1450 0 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 690 -70 60 H I C CNN "DistributorPartNumber"
+F7 "No" 440 -310 60 H I C CNN "FP_AP"
+F8 "шт." 450 -140 60 H I C CNN "ID_AP"
+F9 "No" 440 -220 60 H I C CNN "Toleranc_AP"
+DRAW
+S -100 -250 100 -350 0 1 0 N
+S -100 -150 100 -250 0 1 0 N
+S -100 -50 100 -150 0 1 0 N
+S -100 50 100 -50 0 1 0 N
+X 1 1 -200 0 100 R 60 60 1 1 P
+X 2 2 200 0 100 L 60 60 1 1 P
+X 3 3 -200 -100 100 R 50 50 1 1 I
+X 4 4 200 -100 100 L 50 50 1 1 P
+X 5 5 -200 -200 100 R 50 50 1 1 P
+X 6 6 200 -200 100 L 50 50 1 1 P
+X 7 7 -200 -300 100 R 50 50 1 1 P
+X 8 8 200 -300 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_0805
+#
+DEF R_0805 R 0 0 N N 1 F N
+F0 "R" -20 100 60 H V C CNN
+F1 "R_0805" 0 -120 60 H V C CNN
+F2 "smd:SM-R-0805" 590 -210 60 H I C CNN
+F3 "No" 370 -290 60 H I C CNN
+F4 "Резистор 0.125 Вт" 750 320 60 H I C CNN "Description_AP"
+F5 "@Платан компонентс@" 825 225 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 620 130 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; 0805" 550 40 60 H I C CNN "FP_AP"
+F8 "шт." 380 -40 60 H I C CNN "ID_AP"
+F9 "5%" 380 -130 60 H I C CNN "Toleranc_AP"
+DRAW
+S -100 50 100 -50 0 1 0 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_1206
+#
+DEF R_1206 R 0 0 N N 1 F N
+F0 "R" -20 100 60 H V C CNN
+F1 "R_1206" 0 -120 60 H V C CNN
+F2 "smd:SM-R-1206" 725 -200 60 H I C CNN
+F3 "No" 400 -310 60 H I C CNN
+F4 "Резистор 0.25 Вт" 730 330 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1450 230 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 640 150 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; 1206" 570 40 60 H I C CNN "FP_AP"
+F8 "шт." 400 -40 60 H I C CNN "ID_AP"
+F9 "5%" 400 -130 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM-R-1206
+$ENDFPLIST
+DRAW
+S -100 50 100 -50 0 1 0 N
+P 2 0 1 0 -30 -30 30 30 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_2512
+#
+DEF R_2512 R 0 0 N N 1 F N
+F0 "R" -20 100 60 H V C CNN
+F1 "R_2512" 0 -120 60 H V C CNN
+F2 "SM-R-2512" 525 -300 60 H I C CNN
+F3 "No" 325 -400 60 H I C CNN
+F4 "Резистор 1Вт" 575 300 60 H I C CNN "Description_AP"
+F5 "ООО @СМП@" 550 200 60 H I C CNN "Distributor_AP"
+F6 "www.smd.ru" 525 100 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; 2512" 500 0 60 H I C CNN "FP_AP"
+F8 "шт." 325 -100 60 H I C CNN "ID_AP"
+F9 "5%" 325 -200 60 H I C CNN "Toleranc_AP"
+DRAW
+S -100 50 100 -50 0 1 0 N
+P 2 0 1 0 0 30 0 -30 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_2512_2Вт
+#
+DEF R_2512_2Вт R 0 0 N N 1 F N
+F0 "R" -20 100 60 H V C CNN
+F1 "R_2512_2Вт" 0 -120 60 H V C CNN
+F2 "SM-R-2512" 680 -280 60 H I C CNN
+F3 "No" 460 -370 60 H I C CNN
+F4 "Резистор 2Вт" 700 320 60 H I C CNN "Description_AP"
+F5 "ООО @СМП@" 675 200 60 H I C CNN "Distributor_AP"
+F6 "www.smd.ru" 650 100 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; 2512" 640 10 60 H I C CNN "FP_AP"
+F8 "шт." 460 -80 60 H I C CNN "ID_AP"
+F9 "5%" 470 -180 60 H I C CNN "Toleranc_AP"
+DRAW
+S -100 50 100 -50 0 1 0 N
+P 2 0 1 0 -20 30 -20 -30 N
+P 2 0 1 0 20 30 20 -30 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# S20K275
+#
+DEF S20K275 RU 0 0 N N 1 F N
+F0 "RU" 5 125 60 H V C CNN
+F1 "S20K275" -25 -170 60 H V C CNN
+F2 "S20K275" 525 -45 60 H I C CNN
+F3 "No" 390 -360 60 H I C CNN
+F4 "Варистор" 530 220 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1440 130 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 625 55 60 H I C CNN "DistributorPartNumber"
+F7 "No" 390 -280 60 H I C CNN "FP_AP"
+F8 "шт." 400 -120 60 H I C CNN "ID_AP"
+F9 "No" 390 -200 60 H I C CNN "Toleranc_AP"
+DRAW
+T 0 -140 -60 60 0 0 0 U Normal 0 C C
+S -100 50 100 -50 0 1 0 N
+P 3 0 1 0 100 100 -100 -100 -175 -100 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SCK-053
+#
+DEF SCK-053 RT 0 0 N N 1 F N
+F0 "RT" 5 125 60 H V C CNN
+F1 "SCK-053" -25 -170 60 H V C CNN
+F2 "SCK-053" 515 -65 60 H I C CNN
+F3 "No" 370 -320 60 H I C CNN
+F4 "Термистор" 530 290 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1420 190 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 615 105 60 H I C CNN "DistributorPartNumber"
+F7 "No" 370 -240 60 H I C CNN "FP_AP"
+F8 "шт." 380 30 60 H I C CNN "ID_AP"
+F9 "No" 370 -160 60 H I C CNN "Toleranc_AP"
+DRAW
+T 0 -140 -60 60 0 0 0 t Normal 0 C C
+S -100 50 100 -50 0 1 0 N
+P 3 0 1 0 100 100 -100 -100 -175 -100 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SQP-10W
+#
+DEF SQP-10W R 0 0 N N 1 F N
+F0 "R" -20 100 60 H V C CNN
+F1 "SQP-10W" 0 -120 60 H V C CNN
+F2 "dip:SQP-10W" 700 -200 60 H I C CNN
+F3 "No" 475 -300 60 H I C CNN
+F4 "Резистор SQP 10 Вт" 850 325 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@" 1025 225 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 725 150 60 H I C CNN "DistributorPartNumber"
+F7 "No" 475 50 60 H I C CNN "FP_AP"
+F8 "шт." 475 -25 60 H I C CNN "ID_AP"
+F9 "5%" 475 -125 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM-R-1206
+$ENDFPLIST
+DRAW
+S -100 50 100 -50 0 1 0 N
+P 2 0 1 0 -25 35 25 -35 N
+P 2 0 1 0 0 0 -25 -35 N
+P 2 0 1 0 0 0 25 35 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TERMISTOR
+#
+DEF TERMISTOR RT 0 0 N N 1 F N
+F0 "RT" 5 125 60 H V C CNN
+F1 "TERMISTOR" -25 -170 60 H V C CNN
+F2 "No" 425 -105 60 H I C CNN
+F3 "No" 430 -350 60 H I C CNN
+F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1490 160 60 H I C CNN "Distributor_AP"
+F5 "www.platan.ru" 670 80 60 H I C CNN "DistributorPartNumber"
+F6 "No" 425 -185 60 H I C CNN "FP_AP"
+F7 "шт." 430 -10 60 H I C CNN "ID_AP"
+F8 "No" 430 -270 60 H I C CNN "Toleranc_AP"
+F9 "Термистор" 610 260 60 H I C CNN "Description_AP"
+DRAW
+T 0 -140 -60 60 0 0 0 t Normal 0 C C
+S -100 50 100 -50 0 1 0 N
+P 3 0 1 0 100 100 -100 -100 -175 -100 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# VARISTOR
+#
+DEF VARISTOR RU 0 0 N N 1 F N
+F0 "RU" 5 125 60 H V C CNN
+F1 "VARISTOR" -25 -170 60 H V C CNN
+F2 "No" 425 -105 60 H I C CNN
+F3 "No" 430 -350 60 H I C CNN
+F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1490 160 60 H I C CNN "Distributor_AP"
+F5 "www.platan.ru" 670 80 60 H I C CNN "DistributorPartNumber"
+F6 "No" 425 -185 60 H I C CNN "FP_AP"
+F7 "шт." 430 -10 60 H I C CNN "ID_AP"
+F8 "No" 430 -270 60 H I C CNN "Toleranc_AP"
+F9 "Варистор" 570 260 60 H I C CNN "Description_AP"
+DRAW
+T 0 -140 -60 60 0 0 0 U Normal 0 C C
+S -100 50 100 -50 0 1 0 N
+P 3 0 1 0 100 100 -100 -100 -175 -100 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# WSL2512R0100FEA_R_2512
+#
+DEF WSL2512R0100FEA_R_2512 R 0 0 N N 1 F N
+F0 "R" -20 100 60 H V C CNN
+F1 "WSL2512R0100FEA_R_2512" 0 -120 60 H V C CNN
+F2 "SM-R-2512" 520 250 60 H I C CNN
+F3 "No" 300 160 60 H I C CNN
+F4 "Резистор WSL2512R0100FEA" 890 800 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1360 700 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 550 620 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; 2512" 480 520 60 H I C CNN "FP_AP"
+F8 "шт." 310 450 60 H I C CNN "ID_AP"
+F9 "1%" 305 360 60 H I C CNN "Toleranc_AP"
+DRAW
+S -100 50 100 -50 0 1 0 N
+X 1 1 200 0 100 L 60 60 1 1 P
+X 2 2 -200 0 100 R 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

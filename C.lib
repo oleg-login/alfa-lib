@@ -1,0 +1,468 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 0,01X630V
+#
+DEF 0,01X630V C 0 0 N N 1 F N
+F0 "C" 50 100 60 H V L CNN
+F1 "0,01X630V" -230 -200 60 H V L CNN
+F2 "K73-17-0.01mkFX630V" 750 215 60 H I C CNN
+F3 "No" 260 305 60 H I C CNN
+F4 "Конденсатор K73-17" 690 805 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1315 700 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 505 615 60 H I C CNN "DistributorPartNumber"
+F7 "No" 260 460 60 H I C CNN "FP_AP"
+F8 "шт." 265 540 60 H I C CNN "ID_AP"
+F9 "No" 260 380 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0,1X630V
+#
+DEF 0,1X630V C 0 0 N N 1 F N
+F0 "C" 50 100 60 H V L CNN
+F1 "0,1X630V" -230 -200 60 H V L CNN
+F2 "K73-17-0.1mkFX630V" 720 225 60 H I C CNN
+F3 "No" 260 305 60 H I C CNN
+F4 "Конденсатор K73-17" 690 805 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1315 700 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 505 615 60 H I C CNN "DistributorPartNumber"
+F7 "No" 260 460 60 H I C CNN "FP_AP"
+F8 "шт." 265 540 60 H I C CNN "ID_AP"
+F9 "No" 260 380 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0,47X630V
+#
+DEF 0,47X630V C 0 0 N N 1 F N
+F0 "C" 50 100 60 H V L CNN
+F1 "0,47X630V" -230 -200 60 H V L CNN
+F2 "K73-17-0.47mkFX630V" 750 225 60 H I C CNN
+F3 "No" 260 305 60 H I C CNN
+F4 "Конденсатор K73-17" 690 805 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1315 700 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 505 615 60 H I C CNN "DistributorPartNumber"
+F7 "No" 260 460 60 H I C CNN "FP_AP"
+F8 "шт." 265 540 60 H I C CNN "ID_AP"
+F9 "No" 260 380 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100,0X400V
+#
+DEF 100,0X400V C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "100,0X400V" 0 -175 60 H V C CNN
+F2 "100mkFx400V" 575 60 60 H I C CNN
+F3 "No" 330 150 60 H I C CNN
+F4 "Конденсатор электролитический алюминевый" 1330 500 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "шт." 340 410 60 H I C CNN "ID_AP"
+F8 "No" 330 230 60 H I C CNN "FP_AP"
+F9 "No" 330 310 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1000,0X16V-1017
+#
+DEF 1000,0X16V-1017 C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "1000,0X16V-1017" 0 -175 60 H V C CNN
+F2 "1000mkFx16V-1017" 730 60 60 H I C CNN
+F3 "No" 330 150 60 H I C CNN
+F4 "Конденсатор электролитический алюминевый (Jamicon 10x17)" 1740 500 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "No" 340 410 60 H I C CNN "FP_AP"
+F8 "шт." 330 230 60 H I C CNN "ID_AP"
+F9 "No" 330 310 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100X35V
+#
+DEF 100X35V C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "100X35V" 0 -175 60 H V C CNN
+F2 "cpol:CPOL-100-35V-JAMICON-0611" 1150 60 60 H I C CNN
+F3 "No" 340 160 60 H I C CNN
+F4 "Конденсатор электролитический алюминиевый K50-35" 1540 510 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "No" 340 410 60 H I C CNN "FP_AP"
+F8 "шт." 350 250 60 H I C CNN "ID_AP"
+F9 "No" 340 320 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100X50V
+#
+DEF 100X50V C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "100X50V" 0 -175 60 H V C CNN
+F2 "CPOL:CPOL-100-50V-JAMICON-0812" 1150 60 60 H I C CNN
+F3 "No" 340 160 60 H I C CNN
+F4 "Конденсатор электролитический алюминиевый K50-35" 1540 510 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "No" 340 410 60 H I C CNN "FP_AP"
+F8 "шт." 350 250 60 H I C CNN "ID_AP"
+F9 "No" 340 320 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22,0X400V-1326
+#
+DEF 22,0X400V-1326 C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "22,0X400V-1326" 0 -175 60 H V C CNN
+F2 "22mkFx400V-1326" 700 60 60 H I C CNN
+F3 "No" 330 150 60 H I C CNN
+F4 "Конденсатор электролитический алюминевый (Jamicon 13x26)" 1740 500 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "No" 340 410 60 H I C CNN "FP_AP"
+F8 "шт." 330 230 60 H I C CNN "ID_AP"
+F9 "No" 330 310 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220,0X25V
+#
+DEF 220,0X25V C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "220,0X25V" 0 -175 60 H V C CNN
+F2 "220mkFx25V" 550 60 60 H I C CNN
+F3 "No" 330 150 60 H I C CNN
+F4 "Конденсатор электролитический алюминевый" 1330 500 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "No" 340 410 60 H I C CNN "FP_AP"
+F8 "шт." 330 230 60 H I C CNN "ID_AP"
+F9 "No" 330 310 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220X16V
+#
+DEF 220X16V C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "220X16V" 0 -175 60 H V C CNN
+F2 "CPOL:CPOL-220-16V-JAMICON-0511" 1150 60 60 H I C CNN
+F3 "No" 340 160 60 H I C CNN
+F4 "Конденсатор электролитический алюминиевый K50-35" 1575 500 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "No" 340 410 60 H I C CNN "FP_AP"
+F8 "шт." 350 250 60 H I C CNN "ID_AP"
+F9 "No" 340 320 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220X35V
+#
+DEF 220X35V C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "220X35V" 0 -175 60 H V C CNN
+F2 "cpol:CPOL-220-35V-JAMICON-0812" 1150 60 60 H I C CNN
+F3 "No" 340 160 60 H I C CNN
+F4 "Конденсатор электролитический алюминиевый K50-35" 1540 510 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "No" 340 410 60 H I C CNN "FP_AP"
+F8 "шт." 350 250 60 H I C CNN "ID_AP"
+F9 "No" 340 320 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47,0X16V
+#
+DEF 47,0X16V C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "47,0X16V" 0 -175 60 H V C CNN
+F2 "47mkFx16V-0511" 650 60 60 H I C CNN
+F3 "No" 330 150 60 H I C CNN
+F4 "Конденсатор электролитический алюминевый (05x11)" 1530 500 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "No" 340 410 60 H I C CNN "FP_AP"
+F8 "шт." 330 230 60 H I C CNN "ID_AP"
+F9 "No" 330 310 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47,0X400V
+#
+DEF 47,0X400V C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "47,0X400V" 0 -175 60 H V C CNN
+F2 "47mkFx400V" 550 60 60 H I C CNN
+F3 "No" 330 150 60 H I C CNN
+F4 "Конденсатор электролитический алюминевый (Jamicon 16x36)" 1740 500 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "шт." 340 410 60 H I C CNN "ID_AP"
+F8 "No" 330 230 60 H I C CNN "FP_AP"
+F9 "No" 330 310 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C
+#
+DEF C C 0 0 N N 1 F N
+F0 "C" 50 100 60 H V L CNN
+F1 "C" 50 -100 60 H V L CNN
+F2 "No" 265 145 60 H I C CNN
+F3 "No" 260 225 60 H I C CNN
+F4 "Конденсатор керамический" 840 825 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1315 700 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 515 575 60 H I C CNN "DistributorPartNumber"
+F7 "No" 260 400 60 H I C CNN "FP_AP"
+F8 "шт." 265 490 60 H I C CNN "ID_AP"
+F9 "No" 265 315 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_0805
+#
+DEF C_0805 C 0 0 N N 1 F N
+F0 "C" 50 100 60 H V L CNN
+F1 "C_0805" 50 -100 60 H V L CNN
+F2 "smd:SM-C-0805" 775 75 60 H I C CNN
+F3 "No" 460 165 60 H I C CNN
+F4 "Конденсатор керамический" 1025 775 60 H I C CNN "Description_AP"
+F5 "@Платан компонентс@" 925 675 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 715 575 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; 0805" 640 450 60 H I C CNN "FP_AP"
+F8 "шт." 465 250 60 H I C CNN "ID_AP"
+F9 "X7R; 10%" 615 325 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_1206
+#
+DEF C_1206 C 0 0 N N 1 F N
+F0 "C" 50 100 60 H V L CNN
+F1 "C_1206" 50 -100 60 H V L CNN
+F2 "smd:SM-C-1206" 775 75 60 H I C CNN
+F3 "No" 460 165 60 H I C CNN
+F4 "Конденсатор керамический" 1025 775 60 H I C CNN "Description_AP"
+F5 "@Платан компонентс@" 925 675 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 715 575 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; 1206" 640 450 60 H I C CNN "FP_AP"
+F8 "шт." 465 250 60 H I C CNN "ID_AP"
+F9 "NPO; 10%" 625 350 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_POL
+#
+DEF C_POL C 0 0 N N 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "C_POL" 0 -175 60 H V C CNN
+F2 "No" 330 70 60 H I C CNN
+F3 "No" 330 150 60 H I C CNN
+F4 "Конденсатор электролитический алюминевый" 1330 500 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1390 600 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 700 60 H I C CNN "DistributorPartNumber"
+F7 "шт." 340 410 60 H I C CNN "ID_AP"
+F8 "No" 330 230 60 H I C CNN "FP_AP"
+F9 "No" 330 310 60 H I C CNN "Toleranc_AP"
+$FPLIST
+ SM*
+ C?
+ C1-1
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -75 0 75 0 N
+P 2 0 1 0 -75 50 75 50 N
+P 3 0 1 0 30 90 70 90 70 90 N
+P 3 0 1 0 50 110 50 70 50 70 N
+X 1 1 0 150 100 D 40 40 1 1 P
+X 2 2 0 -100 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
