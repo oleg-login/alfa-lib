@@ -13,7 +13,7 @@ F5 "ООО @Элтех@ тел. (495)788-5948" 1060 640 60 H I C CNN "Distributo
 F6 "www.eltech.spb.ru" 650 560 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-8" 510 460 60 H I C CNN "FP_AP"
 F8 "шт." 320 390 60 H I C CNN "ID_AP"
-F9 "No" 310 310 60 H I C CNN "Toleranc_AP"
+F9 "No" 310 310 60 H I C CNN "Tolerance_AP"
 DRAW
 P 5 1 1 0 -100 200 -100 -200 200 0 -100 200 -100 200 N
 X -IN 2 -300 -100 200 R 50 50 1 1 P I
@@ -36,7 +36,7 @@ F5 "ООО @Элтех@ тел. (495)788-5948" 1060 640 60 H I C CNN "Distributo
 F6 "www.eltech.spb.ru" 650 560 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-8" 510 460 60 H I C CNN "FP_AP"
 F8 "шт." 320 390 60 H I C CNN "ID_AP"
-F9 "No" 310 310 60 H I C CNN "Toleranc_AP"
+F9 "No" 310 310 60 H I C CNN "Tolerance_AP"
 DRAW
 P 5 1 1 0 -100 200 -100 -200 200 0 -100 200 -100 200 N
 X -IN 2 -300 -100 200 R 50 50 1 1 P I
@@ -59,7 +59,7 @@ F5 "ООО @Элтех@ тел. (495)788-5948" 1060 640 60 H I C CNN "Distributo
 F6 "www.eltech.spb.ru" 650 560 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-8" 510 460 60 H I C CNN "FP_AP"
 F8 "шт." 320 390 60 H I C CNN "ID_AP"
-F9 "No" 310 310 60 H I C CNN "Toleranc_AP"
+F9 "No" 310 310 60 H I C CNN "Tolerance_AP"
 DRAW
 P 5 1 1 0 -100 200 -100 -200 200 0 -100 200 -100 200 N
 X -IN 2 -300 -100 200 R 50 50 1 1 P I
@@ -82,7 +82,7 @@ F5 "ООО @Элтех@ тел. (495)788-5948" 1060 640 60 H I C CNN "Distributo
 F6 "www.eltech.spb.ru" 650 560 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-8" 510 460 60 H I C CNN "FP_AP"
 F8 "шт." 320 390 60 H I C CNN "ID_AP"
-F9 "No" 310 310 60 H I C CNN "Toleranc_AP"
+F9 "No" 310 310 60 H I C CNN "Tolerance_AP"
 DRAW
 P 5 1 1 0 -100 200 -100 -200 200 0 -100 200 -100 200 N
 X OUT_A 1 400 0 200 L 50 50 1 1 P
@@ -109,7 +109,7 @@ F5 "ООО @Элтех@ тел. (495)788-5948" 1060 640 60 H I C CNN "Distributo
 F6 "www.eltech.spb.ru" 650 560 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-8" 510 460 60 H I C CNN "FP_AP"
 F8 "шт." 320 390 60 H I C CNN "ID_AP"
-F9 "No" 310 310 60 H I C CNN "Toleranc_AP"
+F9 "No" 310 310 60 H I C CNN "Tolerance_AP"
 DRAW
 P 5 1 1 0 -100 200 -100 -200 200 0 -100 200 -100 200 N
 X -IN 2 -300 -100 200 R 50 50 1 1 P I
@@ -132,7 +132,7 @@ F5 "@Элтех@" 450 650 60 H I C CNN "Distributor_AP"
 F6 "www.eltech.spb.ru" 650 560 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-8" 510 460 60 H I C CNN "FP_AP"
 F8 "шт." 320 390 60 H I C CNN "ID_AP"
-F9 "No" 310 310 60 H I C CNN "Toleranc_AP"
+F9 "No" 310 310 60 H I C CNN "Tolerance_AP"
 DRAW
 P 5 1 1 0 -100 200 -100 -200 200 0 -100 200 -100 200 N
 X OUT_A 1 400 0 200 L 50 50 1 1 P
@@ -159,7 +159,7 @@ F5 "No" 310 510 60 H I C CNN "Distributor_AP"
 F6 "No" 310 590 60 H I C CNN "DistributorPartNumber"
 F7 "No" 310 670 60 H I C CNN "FP_AP"
 F8 "No" 310 750 60 H I C CNN "ID_AP"
-F9 "No" 310 840 60 H I C CNN "Toleranc_AP"
+F9 "No" 310 840 60 H I C CNN "Tolerance_AP"
 DRAW
 P 5 1 1 0 -100 200 -100 -200 200 0 -100 200 -100 200 N
 X OUT_A 1 400 0 200 L 50 50 1 1 P
@@ -186,7 +186,7 @@ F5 "ООО @Сканти-Рус@ тел. (495)781-4945" 1810 90 60 H I C CNN "Di
 F6 "www.scanti.ru" 1150 10 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; MSOP-10" 1210 -90 60 H I C CNN "FP_AP"
 F8 "шт." 920 -160 60 H I C CNN "ID_AP"
-F9 "No" 910 -240 60 H I C CNN "Toleranc_AP"
+F9 "No" 910 -240 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -450 -600 450 -600 N
 P 2 0 1 0 -450 -400 -450 -600 N
@@ -232,7 +232,7 @@ F5 "ООО @Сканти-Рус@ тел. (495)781-4945" 1660 90 60 H I C CNN "Di
 F6 "www.scanti.ru" 1000 10 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; MSOP-8" 1010 -90 60 H I C CNN "FP_AP"
 F8 "шт." 770 -160 60 H I C CNN "ID_AP"
-F9 "No" 760 -240 60 H I C CNN "Toleranc_AP"
+F9 "No" 760 -240 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -300 -100 -100 -100 N
 P 2 0 1 0 -300 200 -300 -400 N

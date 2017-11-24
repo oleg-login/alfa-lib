@@ -1,6 +1,64 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# CAY16-220J
+#
+DEF CAY16-220J RN 0 0 N N 1 F N
+F0 "RN" -20 100 60 H V C CNN
+F1 "CAY16-220J" 0 -400 60 H V C CNN
+F2 "smd:SM-R-CAT16" 750 -400 60 H I C CNN
+F3 "No" 440 -470 60 H I C CNN
+F4 "Резисторная сборка" 800 100 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1450 0 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 690 -70 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; 0603x4" 650 -300 60 H I C CNN "FP_AP"
+F8 "шт." 450 -140 60 H I C CNN "ID_AP"
+F9 "No" 440 -220 60 H I C CNN "Tolerance_AP"
+DRAW
+S -100 -250 100 -350 0 1 0 N
+S -100 -150 100 -250 0 1 0 N
+S -100 -50 100 -150 0 1 0 N
+S -100 50 100 -50 0 1 0 N
+X 1 1 -200 0 100 R 60 60 1 1 P
+X 2 2 200 0 100 L 60 60 1 1 P
+X 3 3 -200 -100 100 R 50 50 1 1 I
+X 4 4 200 -100 100 L 50 50 1 1 P
+X 5 5 -200 -200 100 R 50 50 1 1 P
+X 6 6 200 -200 100 L 50 50 1 1 P
+X 7 7 -200 -300 100 R 50 50 1 1 P
+X 8 8 200 -300 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CAY16-330J
+#
+DEF CAY16-330J RN 0 0 N N 1 F N
+F0 "RN" -20 100 60 H V C CNN
+F1 "CAY16-330J" 0 -400 60 H V C CNN
+F2 "smd:SM-R-CAT16" 750 -400 60 H I C CNN
+F3 "No" 440 -470 60 H I C CNN
+F4 "Резисторная сборка" 800 100 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1450 0 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 690 -70 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; 0603x4" 650 -300 60 H I C CNN "FP_AP"
+F8 "шт." 450 -140 60 H I C CNN "ID_AP"
+F9 "No" 440 -220 60 H I C CNN "Tolerance_AP"
+DRAW
+S -100 -250 100 -350 0 1 0 N
+S -100 -150 100 -250 0 1 0 N
+S -100 -50 100 -150 0 1 0 N
+S -100 50 100 -50 0 1 0 N
+X 1 1 -200 0 100 R 60 60 1 1 P
+X 2 2 200 0 100 L 60 60 1 1 P
+X 3 3 -200 -100 100 R 50 50 1 1 I
+X 4 4 200 -100 100 L 50 50 1 1 P
+X 5 5 -200 -200 100 R 50 50 1 1 P
+X 6 6 200 -200 100 L 50 50 1 1 P
+X 7 7 -200 -300 100 R 50 50 1 1 P
+X 8 8 200 -300 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # R
 #
 DEF R R 0 0 N N 1 F N
@@ -12,7 +70,7 @@ F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1250 670 6
 F5 "www.platan.ru" 440 580 60 H I C CNN "DistributorPartNumber"
 F6 "No" 190 340 60 H I C CNN "FP_AP"
 F7 "шт." 200 510 60 H I C CNN "ID_AP"
-F8 "No" 190 430 60 H I C CNN "Toleranc_AP"
+F8 "No" 190 430 60 H I C CNN "Tolerance_AP"
 F9 "Резистор" 340 770 60 H I C CNN "Description_AP"
 DRAW
 S -100 50 100 -50 0 1 0 N
@@ -33,7 +91,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1450 0 60 
 F6 "www.platan.ru" 690 -70 60 H I C CNN "DistributorPartNumber"
 F7 "No" 440 -310 60 H I C CNN "FP_AP"
 F8 "шт." 450 -140 60 H I C CNN "ID_AP"
-F9 "No" 440 -220 60 H I C CNN "Toleranc_AP"
+F9 "No" 440 -220 60 H I C CNN "Tolerance_AP"
 DRAW
 S -100 -250 100 -350 0 1 0 N
 S -100 -150 100 -250 0 1 0 N
@@ -62,7 +120,7 @@ F5 "@Платан компонентс@" 825 225 60 H I C CNN "Distributor_AP"
 F6 "www.platan.ru" 620 130 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; 0805" 550 40 60 H I C CNN "FP_AP"
 F8 "шт." 380 -40 60 H I C CNN "ID_AP"
-F9 "5%" 380 -130 60 H I C CNN "Toleranc_AP"
+F9 "5%" 380 -130 60 H I C CNN "Tolerance_AP"
 DRAW
 S -100 50 100 -50 0 1 0 N
 X 1 1 200 0 100 L 60 60 1 1 P
@@ -82,7 +140,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1450 230 6
 F6 "www.platan.ru" 640 150 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; 1206" 570 40 60 H I C CNN "FP_AP"
 F8 "шт." 400 -40 60 H I C CNN "ID_AP"
-F9 "5%" 400 -130 60 H I C CNN "Toleranc_AP"
+F9 "5%" 400 -130 60 H I C CNN "Tolerance_AP"
 $FPLIST
  SM-R-1206
 $ENDFPLIST
@@ -106,7 +164,7 @@ F5 "ООО @СМП@" 550 200 60 H I C CNN "Distributor_AP"
 F6 "www.smd.ru" 525 100 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; 2512" 500 0 60 H I C CNN "FP_AP"
 F8 "шт." 325 -100 60 H I C CNN "ID_AP"
-F9 "5%" 325 -200 60 H I C CNN "Toleranc_AP"
+F9 "5%" 325 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 S -100 50 100 -50 0 1 0 N
 P 2 0 1 0 0 30 0 -30 N
@@ -127,7 +185,7 @@ F5 "ООО @СМП@" 675 200 60 H I C CNN "Distributor_AP"
 F6 "www.smd.ru" 650 100 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; 2512" 640 10 60 H I C CNN "FP_AP"
 F8 "шт." 460 -80 60 H I C CNN "ID_AP"
-F9 "5%" 470 -180 60 H I C CNN "Toleranc_AP"
+F9 "5%" 470 -180 60 H I C CNN "Tolerance_AP"
 DRAW
 S -100 50 100 -50 0 1 0 N
 P 2 0 1 0 -20 30 -20 -30 N
@@ -149,7 +207,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1440 130 6
 F6 "www.platan.ru" 625 55 60 H I C CNN "DistributorPartNumber"
 F7 "No" 390 -280 60 H I C CNN "FP_AP"
 F8 "шт." 400 -120 60 H I C CNN "ID_AP"
-F9 "No" 390 -200 60 H I C CNN "Toleranc_AP"
+F9 "No" 390 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -140 -60 60 0 0 0 U Normal 0 C C
 S -100 50 100 -50 0 1 0 N
@@ -171,7 +229,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1420 190 6
 F6 "www.platan.ru" 615 105 60 H I C CNN "DistributorPartNumber"
 F7 "No" 370 -240 60 H I C CNN "FP_AP"
 F8 "шт." 380 30 60 H I C CNN "ID_AP"
-F9 "No" 370 -160 60 H I C CNN "Toleranc_AP"
+F9 "No" 370 -160 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -140 -60 60 0 0 0 t Normal 0 C C
 S -100 50 100 -50 0 1 0 N
@@ -193,7 +251,7 @@ F5 "ЗАО @Платан компонентс@" 1025 225 60 H I C CNN "Distribut
 F6 "www.platan.ru" 725 150 60 H I C CNN "DistributorPartNumber"
 F7 "No" 475 50 60 H I C CNN "FP_AP"
 F8 "шт." 475 -25 60 H I C CNN "ID_AP"
-F9 "5%" 475 -125 60 H I C CNN "Toleranc_AP"
+F9 "5%" 475 -125 60 H I C CNN "Tolerance_AP"
 $FPLIST
  SM-R-1206
 $ENDFPLIST
@@ -218,7 +276,7 @@ F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1490 160 6
 F5 "www.platan.ru" 670 80 60 H I C CNN "DistributorPartNumber"
 F6 "No" 425 -185 60 H I C CNN "FP_AP"
 F7 "шт." 430 -10 60 H I C CNN "ID_AP"
-F8 "No" 430 -270 60 H I C CNN "Toleranc_AP"
+F8 "No" 430 -270 60 H I C CNN "Tolerance_AP"
 F9 "Термистор" 610 260 60 H I C CNN "Description_AP"
 DRAW
 T 0 -140 -60 60 0 0 0 t Normal 0 C C
@@ -240,7 +298,7 @@ F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1490 160 6
 F5 "www.platan.ru" 670 80 60 H I C CNN "DistributorPartNumber"
 F6 "No" 425 -185 60 H I C CNN "FP_AP"
 F7 "шт." 430 -10 60 H I C CNN "ID_AP"
-F8 "No" 430 -270 60 H I C CNN "Toleranc_AP"
+F8 "No" 430 -270 60 H I C CNN "Tolerance_AP"
 F9 "Варистор" 570 260 60 H I C CNN "Description_AP"
 DRAW
 T 0 -140 -60 60 0 0 0 U Normal 0 C C
@@ -263,7 +321,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1360 700 6
 F6 "www.platan.ru" 550 620 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; 2512" 480 520 60 H I C CNN "FP_AP"
 F8 "шт." 310 450 60 H I C CNN "ID_AP"
-F9 "1%" 305 360 60 H I C CNN "Toleranc_AP"
+F9 "1%" 305 360 60 H I C CNN "Tolerance_AP"
 DRAW
 S -100 50 100 -50 0 1 0 N
 X 1 1 200 0 100 L 60 60 1 1 P

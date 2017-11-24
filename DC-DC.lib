@@ -13,7 +13,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1790 190 6
 F6 "www.platan.ru" 980 100 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SOT-223" 1010 -10 60 H I C CNN "FP_AP"
 F8 "шт." 740 -90 60 H I C CNN "ID_AP"
-F9 "No" 730 -190 60 H I C CNN "Toleranc_AP"
+F9 "No" 730 -190 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -200 350 -200 N
 P 2 0 1 0 -350 200 350 200 N
@@ -40,7 +40,7 @@ F5 "ЗАО @Альтекс@ тел. (495)109-9882" 1560 220 60 H I C CNN "Distri
 F6 "www.altex-com.ru" 1120 120 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; TO-263" 1020 10 60 H I C CNN "FP_AP"
 F8 "шт." 780 -80 60 H I C CNN "ID_AP"
-F9 "No   " 840 -190 60 H I C CNN "Toleranc_AP"
+F9 "No   " 840 -190 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -300 -200 350 -200 N
 P 2 0 1 0 -300 -150 -300 -200 N
@@ -75,7 +75,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1790 190 6
 F6 "www.platan.ru" 980 100 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SOT-223" 1010 -10 60 H I C CNN "FP_AP"
 F8 "шт." 740 -90 60 H I C CNN "ID_AP"
-F9 "No" 730 -190 60 H I C CNN "Toleranc_AP"
+F9 "No" 730 -190 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -200 350 -200 N
 P 2 0 1 0 -350 200 350 200 N
@@ -102,7 +102,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1790 190 6
 F6 "www.platan.ru" 980 100 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SOT-223" 1010 -10 60 H I C CNN "FP_AP"
 F8 "шт." 740 -90 60 H I C CNN "ID_AP"
-F9 "No" 730 -190 60 H I C CNN "Toleranc_AP"
+F9 "No" 730 -190 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -200 350 -200 N
 P 2 0 1 0 -350 200 350 200 N
@@ -129,7 +129,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1790 190 6
 F6 "www.platan.ru" 980 100 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SOT-223" 1010 -10 60 H I C CNN "FP_AP"
 F8 "шт." 740 -90 60 H I C CNN "ID_AP"
-F9 "No" 730 -190 60 H I C CNN "Toleranc_AP"
+F9 "No" 730 -190 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -200 350 -200 N
 P 2 0 1 0 -350 200 350 200 N
@@ -156,7 +156,7 @@ F5 "ЗАО @Альтекс@ тел. (495)109-9882" 1410 270 60 H I C CNN "Distri
 F6 "www.altex-com.ru" 970 170 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; TO-263" 870 60 60 H I C CNN "FP_AP"
 F8 "шт." 630 -30 60 H I C CNN "ID_AP"
-F9 "No   " 690 -120 60 H I C CNN "Toleranc_AP"
+F9 "No   " 690 -120 60 H I C CNN "Tolerance_AP"
 DRAW
 S -300 250 300 -150 0 1 0 N
 P 3 0 1 0 -100 250 -100 -150 -100 -150 N
@@ -181,7 +181,7 @@ F5 "ЗАО @Альтекс@ тел. (495)109-9882" 1710 220 60 H I C CNN "Distri
 F6 "www.altex-com.ru" 1270 120 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; TO-263" 1170 10 60 H I C CNN "FP_AP"
 F8 "шт." 930 -80 60 H I C CNN "ID_AP"
-F9 "No   " 990 -190 60 H I C CNN "Toleranc_AP"
+F9 "No   " 990 -190 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -450 -200 450 -200 N
 P 2 0 1 0 -450 -150 -450 -200 N
@@ -332,7 +332,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1790 190 6
 F6 "www.platan.ru" 980 100 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SOT-223-5" 1010 -10 60 H I C CNN "FP_AP"
 F8 "шт." 740 -90 60 H I C CNN "ID_AP"
-F9 "No" 730 -190 60 H I C CNN "Toleranc_AP"
+F9 "No" 730 -190 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 200 350 200 N
 P 2 0 1 0 -100 -200 -100 -400 N
@@ -363,7 +363,7 @@ F5 "@Элтех@" 850 200 60 H I C CNN "Distributor_AP"
 F6 "www.eltech.spb.ru" 1050 100 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SOT-23-5" 1050 0 60 H I C CNN "FP_AP"
 F8 "шт." 740 -90 60 H I C CNN "ID_AP"
-F9 "No" 730 -190 60 H I C CNN "Toleranc_AP"
+F9 "No" 730 -190 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -300 350 -300 N
 P 2 0 1 0 -350 -200 -350 -300 N
@@ -395,7 +395,7 @@ F5 "@Элтех@" 850 200 60 H I C CNN "Distributor_AP"
 F6 "www.eltech.spb.ru" 1050 100 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SOT-23-5" 1050 0 60 H I C CNN "FP_AP"
 F8 "шт." 740 -90 60 H I C CNN "ID_AP"
-F9 "No" 730 -190 60 H I C CNN "Toleranc_AP"
+F9 "No" 730 -190 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -300 350 -300 N
 P 2 0 1 0 -350 -200 -350 -300 N
@@ -427,7 +427,7 @@ F5 "@Промэлектроника@" 1150 225 60 H I C CNN "Distributor_AP"
 F6 "www.promelec.ru" 1050 125 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; HSOP-8" 1000 25 60 H I C CNN "FP_AP"
 F8 "шт." 750 -50 60 H I C CNN "ID_AP"
-F9 "No" 750 -125 60 H I C CNN "Toleranc_AP"
+F9 "No" 750 -125 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -250 350 -250 N
 P 2 0 1 0 -350 250 -350 -250 N
@@ -460,7 +460,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1370 630 6
 F6 "www.platan.ru" 560 540 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-8" 510 430 60 H I C CNN "FP_AP"
 F8 "шт." 320 350 60 H I C CNN "ID_AP"
-F9 "No  " 360 110 60 H I C CNN "Toleranc_AP"
+F9 "No  " 360 110 60 H I C CNN "Tolerance_AP"
 $FPLIST
  KD-23.3
 $ENDFPLIST
@@ -489,7 +489,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1370 630 6
 F6 "www.platan.ru" 560 540 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-8" 510 430 60 H I C CNN "FP_AP"
 F8 "шт." 320 350 60 H I C CNN "ID_AP"
-F9 "No  " 360 110 60 H I C CNN "Toleranc_AP"
+F9 "No  " 360 110 60 H I C CNN "Tolerance_AP"
 $FPLIST
  KD-23.3
 $ENDFPLIST

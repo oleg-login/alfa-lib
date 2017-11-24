@@ -13,7 +13,7 @@ F5 "No" 1320 -50 60 H I C CNN "Distributor_AP"
 F6 "No" 1315 -130 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-16" 1545 -230 60 H I C CNN "FP_AP"
 F8 "шт." 1330 -300 60 H I C CNN "ID_AP"
-F9 "No" 1320 -390 60 H I C CNN "Toleranc_AP"
+F9 "No" 1320 -390 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 200 -800 250 -800 N
 P 2 0 1 0 200 50 200 -800 N

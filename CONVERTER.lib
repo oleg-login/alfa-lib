@@ -13,7 +13,7 @@ F5 "No" 850 350 60 H I C CNN "Distributor_AP"
 F6 "No" 850 250 60 H I C CNN "DisributorPartNumber"
 F7 "No" 850 150 60 H I C CNN "FP_AP"
 F8 "No" 850 50 60 H I C CNN "ID_AP"
-F9 "No" 850 -50 60 H I C CNN "Toleranc_AP"
+F9 "No" 850 -50 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -400 -400 400 -400 N
 P 2 0 1 0 -400 500 -400 -400 N
@@ -52,7 +52,7 @@ F5 "@Платан компонентс@" 1225 300 60 H I C CNN "Distributor_AP"
 F6 "www.platan.ru" 1025 200 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; QFN-28" 1025 100 60 H I C CNN "FP_AP"
 F8 "шт." 800 -200 60 H I C CNN "ID_AP"
-F9 "No" 800 0 60 H I C CNN "Toleranc_AP"
+F9 "No" 800 0 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -650 -100 -650 N
 P 2 0 1 0 -350 -100 -100 -100 N
@@ -101,7 +101,7 @@ F5 "@Платан компонентс@" 1225 -150 60 H I C CNN "Distributor_AP"
 F6 "www.platan.ru" 1025 -250 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; QFN-28" 1025 -350 60 H I C CNN "FP_AP"
 F8 "шт." 800 -650 60 H I C CNN "ID_AP"
-F9 "No" 800 -450 60 H I C CNN "Toleranc_AP"
+F9 "No" 800 -450 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -400 -100 -400 N
 P 2 0 1 0 -350 -400 400 -400 N

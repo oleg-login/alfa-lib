@@ -1,0 +1,337 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# P6KE300A
+#
+DEF P6KE300A VD 0 0 N N 1 F N
+F0 "VD" 5 95 60 H V C CNN
+F1 "P6KE300A" 5 -120 60 H V C CNN
+F2 "DO-15" 420 185 60 H I C CNN
+F3 "No" 330 360 60 H I C CNN
+F4 "Диод" 380 770 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1390 650 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 550 60 H I C CNN "DistributorPartNumber"
+F7 "No" 330 270 60 H I C CNN "FP_AP"
+F8 "шт." 340 460 60 H I C CNN "ID_AP"
+F9 "No " 350 100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X A A -150 0 100 R 88 88 1 0 P
+X C C 150 0 100 L 88 88 1 0 P
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 -50  75 -50  75 -50 N
+P 3 0 1 0  50 50  25 50  25 50 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+# SMBJ150A
+#
+DEF SMBJ150A VD 0 0 N N 1 F N
+F0 "VD" 5 95 60 H V C CNN
+F1 "SMBJ150A" 5 -100 60 H V C CNN
+F2 "SMB_AC" 440 185 60 H I C CNN
+F3 "No" 330 360 60 H I C CNN
+F4 "Диод" 380 770 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1390 650 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 550 60 H I C CNN "DistributorPartNumber"
+F7 "No" 330 270 60 H I C CNN "FP_AP"
+F8 "шт." 340 460 60 H I C CNN "ID_AP"
+F9 "No " 350 100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X A A -150 0 100 R 88 88 1 0 P
+X C C 150 0 100 L 88 88 1 0 P
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 -50  75 -50  75 -50 N
+P 3 0 1 0  50 50  25 50  25 50 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+# SMBJ18A
+#
+DEF SMBJ18A VD 0 0 N N 1 F N
+F0 "VD" 5 95 60 H V C CNN
+F1 "SMBJ18A" 5 -100 60 H V C CNN
+F2 "SMB_AC" 440 185 60 H I C CNN
+F3 "No" 330 360 60 H I C CNN
+F4 "Диод" 380 770 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1390 650 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 550 60 H I C CNN "DistributorPartNumber"
+F7 "No" 330 270 60 H I C CNN "FP_AP"
+F8 "шт." 340 460 60 H I C CNN "ID_AP"
+F9 "No " 350 100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X A A -150 0 100 R 88 88 1 0 P
+X C C 150 0 100 L 88 88 1 0 P
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 -50  75 -50  75 -50 N
+P 3 0 1 0  50 50  25 50  25 50 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+# SMBJ28CA
+#
+DEF SMBJ28CA VD 0 0 N N 1 F N
+F0 "VD" 50 100 60 H V C CNN
+F1 "SMBJ28CA" 50 -125 60 H V C CNN
+F2 "SMB" 530 -275 60 H I C CNN
+F3 "No" 500 -190 60 H I C CNN
+F4 "Диод" 570 390 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1570 180 60 H I C CNN "Distributor_AP"
+F6 "Каталог @Платан@ 2005г. стр. 75" 1240 280 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; SMB" 660 70 60 H I C CNN "FP_AP"
+F8 "шт." 510 -10 60 H I C CNN "ID_AP"
+F9 "No" 500 -100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X 1 1 250 0 100 L 88 88 1 0 P
+X 2 2 -150 0 100 R 88 88 1 0 P
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 -50  75 -50  75 -50 N
+P 3 0 1 0  50 0  150 0  150 0 N
+P 3 0 1 0  50 50  25 50  25 50 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 4 0 1 0  50 0  150 50  150 -50  50 0 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+# SMBJ5.0A
+#
+DEF SMBJ5.0A VD 0 0 N N 1 F N
+F0 "VD" 5 95 60 H V C CNN
+F1 "SMBJ5.0A" 5 -100 60 H V C CNN
+F2 "smd:SMB-AC" 550 200 60 H I C CNN
+F3 "No" 330 360 60 H I C CNN
+F4 "Диод" 380 770 60 H I C CNN "Description_AP"
+F5 "@Платан Компонентс@" 775 650 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 550 60 H I C CNN "DistributorPartNumber"
+F7 "No" 330 270 60 H I C CNN "FP_AP"
+F8 "шт." 340 460 60 H I C CNN "ID_AP"
+F9 "No " 350 100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X A A -150 0 100 R 88 88 1 0 P
+X C C 150 0 100 L 88 88 1 0 P
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 -50  75 -50  75 -50 N
+P 3 0 1 0  50 50  25 50  25 50 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+# SMBJ5.0CA
+#
+DEF SMBJ5.0CA VD 0 0 N N 1 F N
+F0 "VD" 50 100 60 H V C CNN
+F1 "SMBJ5.0CA" 50 -125 60 H V C CNN
+F2 "SMB" 530 -275 60 H I C CNN
+F3 "No" 500 -190 60 H I C CNN
+F4 "Диод" 570 390 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1570 180 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 740 280 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; SMB" 660 70 60 H I C CNN "FP_AP"
+F8 "шт." 510 -10 60 H I C CNN "ID_AP"
+F9 "No" 500 -100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X 1 1 250 0 100 L 88 88 1 0 P
+X 2 2 -150 0 100 R 88 88 1 0 P
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 -50  75 -50  75 -50 N
+P 3 0 1 0  50 0  150 0  150 0 N
+P 3 0 1 0  50 50  25 50  25 50 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 4 0 1 0  50 0  150 50  150 -50  50 0 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+# SMBJ5.5A
+#
+DEF SMBJ5.5A VD 0 0 N N 1 F N
+F0 "VD" 5 95 60 H V C CNN
+F1 "SMBJ5.5A" 5 -100 60 H V C CNN
+F2 "SMB_AC" 440 185 60 H I C CNN
+F3 "No" 330 360 60 H I C CNN
+F4 "Диод" 380 770 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1390 650 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 550 60 H I C CNN "DistributorPartNumber"
+F7 "No" 330 270 60 H I C CNN "FP_AP"
+F8 "шт." 340 460 60 H I C CNN "ID_AP"
+F9 "No " 350 100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X A A -150 0 100 R 88 88 1 0 P
+X C C 150 0 100 L 88 88 1 0 P
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 -50  75 -50  75 -50 N
+P 3 0 1 0  50 50  25 50  25 50 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+# SMBJ5.5CA
+#
+DEF SMBJ5.5CA VD 0 0 N N 1 F N
+F0 "VD" 50 100 60 H V C CNN
+F1 "SMBJ5.5CA" 50 -125 60 H V C CNN
+F2 "SMB" 530 -275 60 H I C CNN
+F3 "No" 500 -190 60 H I C CNN
+F4 "Диод" 570 390 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1570 180 60 H I C CNN "Distributor_AP"
+F6 "Каталог @Платан@ 2005г. стр. 75" 1240 280 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; SMB" 660 70 60 H I C CNN "FP_AP"
+F8 "шт." 510 -10 60 H I C CNN "ID_AP"
+F9 "No" 500 -100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X 1 1 250 0 100 L 88 88 1 0 P
+X 2 2 -150 0 100 R 88 88 1 0 P
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 -50  75 -50  75 -50 N
+P 3 0 1 0  50 0  150 0  150 0 N
+P 3 0 1 0  50 50  25 50  25 50 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 4 0 1 0  50 0  150 50  150 -50  50 0 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+# SMBJ54CA
+#
+DEF SMBJ54CA VD 0 0 N N 1 F N
+F0 "VD" 50 100 60 H V C CNN
+F1 "SMBJ54CA" 50 -125 60 H V C CNN
+F2 "SMB" 530 -275 60 H I C CNN
+F3 "No" 500 -190 60 H I C CNN
+F4 "Диод" 570 390 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1570 180 60 H I C CNN "Distributor_AP"
+F6 "Каталог @Платан@ 2005г. стр. 75" 1240 280 60 H I C CNN "DistributorPartNumber"
+F7 "SMD; SMB" 660 70 60 H I C CNN "FP_AP"
+F8 "шт." 510 -10 60 H I C CNN "ID_AP"
+F9 "No" 500 -100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X 1 1 250 0 100 L 88 88 1 0 P
+X 2 2 -150 0 100 R 88 88 1 0 P
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 -50  75 -50  75 -50 N
+P 3 0 1 0  50 0  150 0  150 0 N
+P 3 0 1 0  50 50  25 50  25 50 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 4 0 1 0  50 0  150 50  150 -50  50 0 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+# TVS_A
+#
+DEF TVS_A VD 0 0 N N 1 F N
+F0 "VD" 5 95 60 H V C CNN
+F1 "TVS_A" 5 -100 60 H V C CNN
+F2 "SMB_AC" 440 185 60 H I C CNN
+F3 "No" 330 360 60 H I C CNN
+F4 "Диод" 380 770 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1390 650 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 550 60 H I C CNN "DistributorPartNumber"
+F7 "No" 330 270 60 H I C CNN "FP_AP"
+F8 "шт." 340 460 60 H I C CNN "ID_AP"
+F9 "No " 350 100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X A A -150 0 100 R 88 88 1 0 P
+X C C 150 0 100 L 88 88 1 0 P
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 -50  75 -50  75 -50 N
+P 3 0 1 0  50 50  25 50  25 50 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+# TVS_CA
+#
+DEF TVS_CA VD 0 0 N N 1 F N
+F0 "VD" 0 100 39 H V C CNN
+F1 "TVS_CA" 0 -125 39 H V C CNN
+F2 "No" 280 185 60 H I C CNN
+F3 "No" 280 360 60 H I C CNN
+F4 "Диод" 330 770 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1340 650 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 530 550 60 H I C CNN "DistributorPartNumber"
+F7 "No" 280 270 60 H I C CNN "FP_AP"
+F8 "шт." 290 460 60 H I C CNN "ID_AP"
+F9 "No " 300 100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X 1 1 200 0 100 L 88 88 1 0 P
+X 2 2 -200 0 100 R 88 88 1 0 P
+P 3 0 1 0  -100 0  0 0  0 0 N
+P 3 0 1 0  0 -50  25 -50  25 -50 N
+P 3 0 1 0  0 0  100 0  100 0 N
+P 3 0 1 0  0 50  -25 50  -25 50 N
+P 3 0 1 0  0 50  0 -50  0 -50 N
+P 4 0 1 0  0 0  100 50  100 -50  0 0 N
+P 5 0 1 0  -100 50  -100 -50  0 0  -100 50  -100 50 N
+ENDDRAW
+ENDDEF
+#
+# VD_STAB
+#
+DEF VD_STAB VD 0 0 N N 1 F N
+F0 "VD" 5 95 60 H V C CNN
+F1 "VD_STAB" 5 -100 60 H V C CNN
+F2 "No" 330 185 60 H I C CNN
+F3 "No" 330 360 60 H I C CNN
+F4 "Диод" 380 770 60 H I C CNN "Description_AP"
+F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1390 650 60 H I C CNN "Distributor_AP"
+F6 "www.platan.ru" 580 550 60 H I C CNN "DistributorPartNumber"
+F7 "No" 330 270 60 H I C CNN "FP_AP"
+F8 "шт." 340 460 60 H I C CNN "ID_AP"
+F9 "No " 350 100 60 H I C CNN "Tolerance_AP"
+$FPLIST
+ KD-23.3
+$ENDFPLIST
+DRAW
+X A A -150 0 100 R 88 88 1 0 P
+X C C 150 0 100 L 88 88 1 0 P
+P 2 0 1 0  25 -50  50 -50 N
+P 3 0 1 0  -50 0  50 0  50 0 N
+P 3 0 1 0  50 50  50 -50  50 -50 N
+P 5 0 1 0  -50 50  -50 -50  50 0  -50 50  -50 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library

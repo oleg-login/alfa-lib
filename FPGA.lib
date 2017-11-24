@@ -13,7 +13,7 @@ F5 "ЗАО @Скан@ тел. (495)796-9125" 2400 2700 60 H I C CNN "Distributor
 F6 "Электронный каталог www.scan.ru" 2400 2600 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; VQ-100" 1920 2500 60 H I C CNN "FP_AP"
 F8 "шт." 1690 2420 60 H I C CNN "ID_AP"
-F9 "No " 1700 2170 60 H I C CNN "Toleranc_AP"
+F9 "No " 1700 2170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -30 2750 60 0 0 0 FPGA  Normal 0 C C
 P 3 0 0 0  -1300 -3050  1100 -3050  1100 -3050 N
@@ -145,7 +145,7 @@ F5 "ЗАО @Скан@ тел.(495)796-9125" -100 1750 60 H I C CNN "Distributor_
 F6 "www.scan.ru" -590 1660 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; PQ-208" -550 1550 60 H I C CNN "FP_AP"
 F8 "шт." -790 1470 60 H I C CNN "ID_AP"
-F9 "No   " -730 1200 60 H I C CNN "Toleranc_AP"
+F9 "No   " -730 1200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 0 10 60 0 0 0 FPGA  Normal 0 C C
 S 2700 -2750 -2900 2850 0 1 0 N
@@ -372,7 +372,7 @@ F5 "ЗАО @Скан@ тел. (495)796-9125" 2150 2700 60 H I C CNN "Distributor
 F6 "Электронный каталог www.scan.ru" 2150 2600 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; VQ-100" 1670 2500 60 H I C CNN "FP_AP"
 F8 "шт." 1440 2420 60 H I C CNN "ID_AP"
-F9 "No " 1450 2170 60 H I C CNN "Toleranc_AP"
+F9 "No " 1450 2170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 0 2750 60 0 0 0 FPGA  Normal 0 C C
 P 2 0 0 0  150 -2850  900 -2850 N
@@ -512,7 +512,7 @@ F5 "ЗАО @Скан@ тел.(495)796-9125" 2800 3750 60 H I C CNN "Distributor_
 F6 "www.scan.ru" 2300 3650 60 H I C CNN "DistributorPartNumber"
 F7 "SMD;TQG-144" 2310 3530 60 H I C CNN "FP_AP"
 F8 "шт." 2100 3440 60 H I C CNN "ID_AP"
-F9 "No" 2090 3350 60 H I C CNN "Toleranc_AP"
+F9 "No" 2090 3350 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 0 3860 60 0 0 0 FPGA  Normal 0 C C
 P 2 0 1 0  -1250 -1550  -250 -1550 N
@@ -696,7 +696,7 @@ F5 "ЗАО @Скан@ тел.(495)796-9125" 2800 3750 60 H I C CNN "Distributor_
 F6 "www.scan.ru" 2300 3650 60 H I C CNN "DistributorPartNumber"
 F7 "SMD;TQG-144" 2310 3530 60 H I C CNN "FP_AP"
 F8 "шт." 2100 3440 60 H I C CNN "ID_AP"
-F9 "No" 2090 3350 60 H I C CNN "Toleranc_AP"
+F9 "No" 2090 3350 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 0 3860 60 0 0 0 FPGA  Normal 0 C C
 P 2 0 1 0  -1250 -1550  -250 -1550 N

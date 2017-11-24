@@ -13,7 +13,7 @@ F5 "ООО @Элтех@ тел. (495)788-5948" 1640 480 60 H I C CNN "Distributo
 F6 "www.eltech.spb.ru" 1220 360 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; TSSOP-16" 1200 240 60 H I C CNN "FP_AP"
 F8 "шт." 930 150 60 H I C CNN "ID_AP"
-F9 "No" 920 40 60 H I C CNN "Toleranc_AP"
+F9 "No" 920 40 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -25 625 60 0 0 0 CODEC Normal 0 C C
 P 2 0 0 0 -550 -500 -550 700 N
@@ -66,7 +66,7 @@ F5 "MT-System тел.(0812) 325-36-85" 1790 480 60 H I C CNN "Distributor_AP"
 F6 "www.mt-system.ru" 1370 360 60 H I C CNN "DistributorPartNumber"
 F7 "SMD;QFP-44" 1250 240 60 H I C CNN "FP_AP"
 F8 "шт." 1030 150 60 H I C CNN "ID_AP"
-F9 "No" 1020 40 60 H I C CNN "Toleranc_AP"
+F9 "No" 1020 40 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -25 625 60 0 0 0 ADC Normal 0 C C
 P 2 0 0 0 -550 -1100 -250 -1100 N
@@ -247,12 +247,12 @@ F0 "DD" 0 2850 60 H V C CNN
 F1 "TVP5150AM1-EP" 0 200 60 H V C CNN
 F2 "smd:LQFP-32_5x5mm_Pitch0.5mm" 2150 2100 60 H I C CNN
 F3 "" 0 2850 60 H I C CNN
-F4 "Микросхема TVP5150AM1-EP" 2050 2700 60 H I C CNN "Description_AP"
+F4 "Микросхема" 1600 2700 60 H I C CNN "Description_AP"
 F5 "No" 1450 2300 60 H I C CNN "Distributor_AP"
 F6 "No" 1450 2400 60 H I C CNN "DistributorPartNumber"
 F7 "No" 1450 2500 60 H I C CNN "FP_AP"
 F8 "шт." 1450 2200 60 H I C CNN "ID_AP"
-F9 "No" 1450 2600 60 H I C CNN "Toleranc_AP"
+F9 "No" 1450 2600 60 H I C CNN "Tolerance_AP"
 DRAW
 X AIP1A 1 1150 1950 300 L 50 50 1 0 P
 X AIP1B 2 1150 1750 300 L 50 50 1 0 P

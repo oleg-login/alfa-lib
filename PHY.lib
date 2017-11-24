@@ -13,7 +13,7 @@ F5 "ЗАО @Элтех@ тел. (495)788-5948 " 2650 1650 60 H I C CNN "Distribu
 F6 "www.eltech.spb.ru" 2220 1500 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; LQFP-48" 2150 1350 60 H I C CNN "FP_AP"
 F8 "шт." 1900 1230 60 H I C CNN "ID_AP"
-F9 "No" 1890 1120 60 H I C CNN "Toleranc_AP"
+F9 "No" 1890 1120 60 H I C CNN "Tolerance_AP"
 DRAW
 P 3 0 1 0 -1250 -2350 -200 -2350 -200 -2350 N
 P 3 0 1 0 -1250 2350 -1250 -2350 -1250 -2350 N
@@ -86,7 +86,7 @@ F5 "ЗАО @Элтех@ тел. (495)788-5948" 2310 560 60 H I C CNN "Distributo
 F6 "www.eltech.spb.ru" 1910 480 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; QFN-32" 1820 370 60 H I C CNN "FP_AP"
 F8 "шт." 1580 300 60 H I C CNN "ID_AP"
-F9 "No  " 1620 210 60 H I C CNN "Toleranc_AP"
+F9 "No  " 1620 210 60 H I C CNN "Tolerance_AP"
 DRAW
 S -1050 900 1050 -1000 0 1 0 N
 P 3 0 1 0 -1050 -800 -150 -800 -150 -800 N
@@ -142,7 +142,7 @@ F5 "ЗАО @Элтех@ тел. (495)788-5948" 2310 560 60 H I C CNN "Distributo
 F6 "www.eltech.spb.ru" 1910 480 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; TQFP-48" 1850 380 60 H I C CNN "FP_AP"
 F8 "шт." 1580 300 60 H I C CNN "ID_AP"
-F9 "No  " 1620 210 60 H I C CNN "Toleranc_AP"
+F9 "No  " 1620 210 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -1050 -1400 -150 -1400 N
 P 2 0 1 0 -1050 -1000 -150 -1000 N

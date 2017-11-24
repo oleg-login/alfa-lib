@@ -13,7 +13,7 @@ F5 "ЗАО @Скан@ тел.(495)796-9125" 2150 1100 60 H I C CNN "Distributor_
 F6 "www.scan.ru" 1650 1000 60 H I C CNN "DistributorPartNumber"
 F7 "SMD;QFG-32" 1660 880 60 H I C CNN "FP_AP"
 F8 "шт." 1450 790 60 H I C CNN "ID_AP"
-F9 "No" 1440 700 60 H I C CNN "Toleranc_AP"
+F9 "No" 1440 700 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -200 360 60 0 0 0 CPLD Normal 0 C C
 S -900 950 500 -450 0 1 0 N
@@ -65,7 +65,7 @@ F5 "ЗАО @Скан@ тел.(495)796-9125" 2150 850 60 H I C CNN "Distributor_A
 F6 "www.scan.ru" 1650 750 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; VQ-44" 1660 630 60 H I C CNN "FP_AP"
 F8 "шт." 1450 540 60 H I C CNN "ID_AP"
-F9 "No" 1440 450 60 H I C CNN "Toleranc_AP"
+F9 "No" 1440 450 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 0 160 60 0 0 0 CPLD Normal 0 C C
 P 3 0 1 0 -900 -850 700 -850 700 -850 N
@@ -132,7 +132,7 @@ F5 "ЗАО @Скан@ тел.(495)796-9125" 2150 850 60 H I C CNN "Distributor_A
 F6 "www.scan.ru" 1650 750 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; VQ-44" 1660 630 60 H I C CNN "FP_AP"
 F8 "шт." 1450 540 60 H I C CNN "ID_AP"
-F9 "No" 1440 450 60 H I C CNN "Toleranc_AP"
+F9 "No" 1440 450 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 0 160 60 0 0 0 CPLD Normal 0 C C
 P 3 0 1 0 -900 -850 700 -850 700 -850 N

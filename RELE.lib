@@ -13,7 +13,7 @@ F5 "ЗАО @Альтекс@ тел. (495)109-9882" 970 785 60 H I C CNN "Distrib
 F6 "www.altex-com.ru" 530 705 60 H I C CNN "DistributorPartNumber"
 F7 "No" 180 465 60 H I C CNN "FP_AP"
 F8 "шт." 190 635 60 H I C CNN "ID_AP"
-F9 "No" 180 545 60 H I C CNN "Toleranc_AP"
+F9 "No" 180 545 60 H I C CNN "Tolerance_AP"
 DRAW
 P 3 0 1 0  -150 -100  -200 -100  -200 -100 N
 P 3 0 1 0  -150 100  -200 100  -200 100 N
@@ -55,7 +55,7 @@ F5 "No" 1575 -220 60 H I C CNN "Distributor_AP"
 F6 "No" 1575 -145 60 H I C CNN "DistributorPartNumber"
 F7 "No" 1575 -65 60 H I C CNN "FP_AP"
 F8 "No" 1575 10 60 H I C CNN "ID_AP"
-F9 "No" 1575 90 60 H I C CNN "Toleranc_AP"
+F9 "No" 1575 90 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 50 0 60 0 0 0 P  Normal 0 C C
 S 150 -50 150 -150 0 1 0 N

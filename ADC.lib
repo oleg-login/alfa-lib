@@ -13,7 +13,7 @@ F5 "MT-System тел.(0812) 325-36-85" 1790 480 60 H I C CNN "Distributor_AP"
 F6 "www.mt-system.ru" 1390 370 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; QFP-44" 1290 260 60 H I C CNN "FP_AP"
 F8 "шт." 1040 170 60 H I C CNN "ID_AP"
-F9 "No" 1030 80 60 H I C CNN "Toleranc_AP"
+F9 "No" 1030 80 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -25 625 60 0 0 0 ADC  Normal 0 C C
 P 2 0 0 0  -550 -1100  -250 -1100 N

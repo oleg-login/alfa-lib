@@ -13,7 +13,7 @@ F5 "ООО @ЭЛТЕХ@" 1050 300 60 H I C CNN "Distributor_AP"
 F6 "www.eltech.spb.ru" 1100 200 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-16" 1000 0 60 H I C CNN "FP_AP"
 F8 "шт." 800 -175 60 H I C CNN "ID_AP"
-F9 "No" 775 100 60 H I C CNN "Toleranc_AP"
+F9 "No" 775 100 60 H I C CNN "Tolerance_AP"
 $FPLIST
  KD-23.3
 $ENDFPLIST
@@ -57,7 +57,7 @@ F5 "ООО @ЭЛТЕХ@" 1050 300 60 H I C CNN "Distributor_AP"
 F6 "www.eltech.spb.ru" 1100 200 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; QSOP-20" 1050 0 60 H I C CNN "FP_AP"
 F8 "шт." 800 -175 60 H I C CNN "ID_AP"
-F9 "No" 775 100 60 H I C CNN "Toleranc_AP"
+F9 "No" 775 100 60 H I C CNN "Tolerance_AP"
 $FPLIST
  KD-23.3
 $ENDFPLIST

@@ -13,7 +13,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1700 150 6
 F6 "www.platan.ru" 890 60 60 H I C CNN "DistributorPartNumber"
 F7 "No" 640 -190 60 H I C CNN "FP_AP"
 F8 "шт." 650 -20 60 H I C CNN "ID_AP"
-F9 "No" 640 -270 60 H I C CNN "Toleranc_AP"
+F9 "No" 640 -270 60 H I C CNN "Tolerance_AP"
 DRAW
 P 3 0 1 0 100 0 350 0 350 0 N
 P 5 0 1 0 300 50 100 50 100 -50 300 -50 300 -50 N
@@ -34,7 +34,7 @@ F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1440 760 6
 F5 "www.platan.ru" 620 680 60 H I C CNN "DistributorPartNumber"
 F6 "No" 370 520 60 H I C CNN "FP_AP"
 F7 "шт." 380 610 60 H I C CNN "ID_AP"
-F8 "No" 370 360 60 H I C CNN "Toleranc_AP"
+F8 "No" 370 360 60 H I C CNN "Tolerance_AP"
 F9 "Предохранитель" 680 860 60 H I C CNN "Description_AP"
 DRAW
 P 3 0 1 0 100 0 350 0 350 0 N
@@ -57,7 +57,7 @@ F5 "ЗАО @Чип и Дип@" 1010 155 60 H I C CNN "Distributor_AP"
 F6 "www.chipdip.ru" 905 70 60 H I C CNN "DistributorPartNumber"
 F7 "No" 640 -190 60 H I C CNN "FP_AP"
 F8 "шт." 650 -20 60 H I C CNN "ID_AP"
-F9 "No" 640 -270 60 H I C CNN "Toleranc_AP"
+F9 "No" 640 -270 60 H I C CNN "Tolerance_AP"
 DRAW
 P 3 0 1 0 100 0 350 0 350 0 N
 P 5 0 1 0 300 50 100 50 100 -50 300 -50 300 -50 N
@@ -79,7 +79,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1695 205 6
 F6 "www.platan.ru" 885 140 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; 1812" 820 50 60 H I C CNN "FP_AP"
 F8 "шт." 640 -25 60 H I C CNN "ID_AP"
-F9 "No" 635 -185 60 H I C CNN "Toleranc_AP"
+F9 "No" 635 -185 60 H I C CNN "Tolerance_AP"
 DRAW
 P 3 0 1 0 100 0 350 0 350 0 N
 P 5 0 1 0 300 50 100 50 100 -50 300 -50 300 -50 N
@@ -101,7 +101,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1695 205 6
 F6 "www.platan.ru" 885 140 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; 1812" 820 50 60 H I C CNN "FP_AP"
 F8 "шт." 640 -25 60 H I C CNN "ID_AP"
-F9 "No" 635 -185 60 H I C CNN "Toleranc_AP"
+F9 "No" 635 -185 60 H I C CNN "Tolerance_AP"
 DRAW
 P 3 0 1 0 100 0 350 0 350 0 N
 P 5 0 1 0 300 50 100 50 100 -50 300 -50 300 -50 N
@@ -123,7 +123,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1695 205 6
 F6 "www.platan.ru" 885 140 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; 1812" 820 50 60 H I C CNN "FP_AP"
 F8 "шт." 640 -25 60 H I C CNN "ID_AP"
-F9 "No" 635 -185 60 H I C CNN "Toleranc_AP"
+F9 "No" 635 -185 60 H I C CNN "Tolerance_AP"
 DRAW
 P 3 0 1 0 100 0 350 0 350 0 N
 P 5 0 1 0 300 50 100 50 100 -50 300 -50 300 -50 N
@@ -145,7 +145,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1695 205 6
 F6 "www.platan.ru" 885 140 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; 2920" 820 50 60 H I C CNN "FP_AP"
 F8 "шт." 640 -25 60 H I C CNN "ID_AP"
-F9 "No" 635 -185 60 H I C CNN "Toleranc_AP"
+F9 "No" 635 -185 60 H I C CNN "Tolerance_AP"
 DRAW
 P 3 0 1 0 100 0 350 0 350 0 N
 P 5 0 1 0 300 50 100 50 100 -50 300 -50 300 -50 N
@@ -166,7 +166,7 @@ F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1440 760 6
 F5 "www.platan.ru" 620 680 60 H I C CNN "DistributorPartNumber"
 F6 "SMD; 2920" 560 590 60 H I C CNN "FP_AP"
 F7 "шт." 380 510 60 H I C CNN "ID_AP"
-F8 "No" 370 340 60 H I C CNN "Toleranc_AP"
+F8 "No" 370 340 60 H I C CNN "Tolerance_AP"
 F9 "Предохранитель" 680 860 60 H I C CNN "Description_AP"
 DRAW
 P 3 0 1 0 100 0 350 0 350 0 N
@@ -188,7 +188,7 @@ F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1440 760 6
 F5 "www.platan.ru" 620 680 60 H I C CNN "DistributorPartNumber"
 F6 "SMD; 3425" 560 590 60 H I C CNN "FP_AP"
 F7 "шт." 380 510 60 H I C CNN "ID_AP"
-F8 "No" 370 340 60 H I C CNN "Toleranc_AP"
+F8 "No" 370 340 60 H I C CNN "Tolerance_AP"
 F9 "Предохранитель" 680 860 60 H I C CNN "Description_AP"
 DRAW
 P 3 0 1 0 100 0 350 0 350 0 N

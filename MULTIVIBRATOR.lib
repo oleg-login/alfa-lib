@@ -13,7 +13,7 @@ F5 "No" 650 100 60 H I C CNN "Distributor_AP"
 F6 "No" 650 0 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-16" 850 -100 60 H I C CNN "FP_AP"
 F8 "шт." 650 -200 60 H I C CNN "ID_AP"
-F9 "No" 650 -300 60 H I C CNN "Toleranc_AP"
+F9 "No" 650 -300 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0  -300 -400  300 -400 N
 P 2 0 1 0  -300 400  -300 -400 N

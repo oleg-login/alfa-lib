@@ -13,7 +13,7 @@ F5 "ООО @Элтех@" 1150 425 60 H I C CNN "Distributor_AP"
 F6 "www.eltech.spb.ru" 1225 325 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; TSSOP-24" 1200 200 60 H I C CNN "FP_AP"
 F8 "шт." 900 125 60 H I C CNN "ID_AP"
-F9 "No" 900 25 60 H I C CNN "Toleranc_AP"
+F9 "No" 900 25 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 1 1 0 -500 200 -100 200 N
 P 2 1 1 0 -500 500 -100 500 N
@@ -107,7 +107,7 @@ F4 "Микросхема" 1175 525 60 H I C CNN "Description_AP"
 F5 "www.eltech.spb.ru" 1300 325 60 H I C CNN "DistributorPartNumber"
 F6 "SMD; TSSOP-16" 1275 200 60 H I C CNN "FP_AP"
 F7 "шт." 975 125 60 H I C CNN "ID_AP"
-F8 "No" 975 25 60 H I C CNN "Toleranc_AP"
+F8 "No" 975 25 60 H I C CNN "Tolerance_AP"
 F9 "ООО @Элтех@" 1225 425 60 H I C CNN "Distributor_AP"
 DRAW
 P 2 0 1 0 -500 -400 -100 -400 N
@@ -168,7 +168,7 @@ F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1250 670 6
 F5 "www.platan.ru" 440 580 60 H I C CNN "DistributorPartNumber"
 F6 "No" 190 340 60 H I C CNN "FP_AP"
 F7 "шт." 200 510 60 H I C CNN "ID_AP"
-F8 "No" 190 430 60 H I C CNN "Toleranc_AP"
+F8 "No" 190 430 60 H I C CNN "Tolerance_AP"
 F9 "Резистор" 340 770 60 H I C CNN "Description_AP"
 DRAW
 S -100 50 100 -50 0 1 0 N
@@ -196,7 +196,7 @@ F4 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1250 670 6
 F5 "www.platan.ru" 440 580 60 H I C CNN "DistributorPartNumber"
 F6 "No" 190 340 60 H I C CNN "FP_AP"
 F7 "шт." 200 510 60 H I C CNN "ID_AP"
-F8 "No" 190 430 60 H I C CNN "Toleranc_AP"
+F8 "No" 190 430 60 H I C CNN "Tolerance_AP"
 F9 "Резистор" 340 770 60 H I C CNN "Description_AP"
 DRAW
 S -100 50 100 -50 0 1 0 N

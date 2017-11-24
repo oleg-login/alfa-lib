@@ -13,7 +13,7 @@ F5 "ООО @Терраэлектроника@ тел.(495)221-7804" 2700 -375 60
 F6 "www.terraelectronica.ru" 2150 -175 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; PSOP-56" 1975 -475 60 H I C CNN "FP_AP"
 F8 "шт." 1700 -650 60 H I C CNN "ID_AP"
-F9 "No" 1700 -750 60 H I C CNN "Toleranc_AP"
+F9 "No" 1700 -750 60 H I C CNN "Tolerance_AP"
 $FPLIST
  PSOP-56
 $ENDFPLIST
@@ -97,7 +97,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1420 700 6
 F6 "www.platan.ru" 615 620 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-16" 595 520 60 H I C CNN "FP_AP"
 F8 "шт." 380 450 60 H I C CNN "ID_AP"
-F9 "No" 370 360 60 H I C CNN "Toleranc_AP"
+F9 "No" 370 360 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -50 -10 60 0 0 0 1  Normal 0 C C
 P 3 0 1 0  -10 -40  70 -40  70 -40 N
@@ -134,7 +134,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 2320 -50 6
 F6 "www.platan.ru" 1515 -130 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-16" 1495 -230 60 H I C CNN "FP_AP"
 F8 "шт." 1280 -300 60 H I C CNN "ID_AP"
-F9 "No" 1270 -390 60 H I C CNN "Toleranc_AP"
+F9 "No" 1270 -390 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 500 -10 60 0 0 0 1  Normal 0 C C
 P 2 0 1 0  200 -800  900 -800 N

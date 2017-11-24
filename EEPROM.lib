@@ -13,7 +13,7 @@ F5 "ЗАО @Платан компонентс@  тел. (495)737-5999" 1780 180 
 F6 "www.platan.ru" 950 100 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-8" 900 0 60 H I C CNN "FP_AP"
 F8 "шт." 710 -70 60 H I C CNN "ID_AP"
-F9 "No" 700 -160 60 H I C CNN "Toleranc_AP"
+F9 "No" 700 -160 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 250 300 250 N
 P 2 0 1 0 -100 250 -100 -250 N
@@ -44,7 +44,7 @@ F5 "ЗАО @Митракон@  тел. (495)959-8385" 1550 620 60 H I C CNN "Dis
 F6 "www.mitracon.ru" 1000 540 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-8" 900 440 60 H I C CNN "FP_AP"
 F8 "шт." 710 370 60 H I C CNN "ID_AP"
-F9 "No" 700 280 60 H I C CNN "Toleranc_AP"
+F9 "No" 700 280 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 250 300 250 N
 P 2 0 1 0 -100 250 -100 -250 N
@@ -75,7 +75,7 @@ F5 "ЗАО @Митракон@  тел. (495)959-8385" 1550 620 60 H I C CNN "Dis
 F6 "www.mitracon.ru" 1000 540 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-8" 900 440 60 H I C CNN "FP_AP"
 F8 "шт." 710 370 60 H I C CNN "ID_AP"
-F9 "No" 700 280 60 H I C CNN "Toleranc_AP"
+F9 "No" 700 280 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 250 300 250 N
 P 2 0 1 0 -100 250 -100 -250 N
@@ -106,7 +106,7 @@ F5 "ЗАО @Митракон@  тел. (495)959-8385" 1080 880 60 H I C CNN "Dis
 F6 "www.mitracon.ru" 530 800 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-8" 420 700 60 H I C CNN "FP_AP"
 F8 "шт." 230 630 60 H I C CNN "ID_AP"
-F9 "No" 220 550 60 H I C CNN "Toleranc_AP"
+F9 "No" 220 550 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -250 350 -250 N
 P 2 0 1 0 -350 250 350 250 N
@@ -137,7 +137,7 @@ F5 "ЗАО @МТ-Систем@ тел.(495)988-2073" 1550 170 60 H I C CNN "Dist
 F6 "www.mt-system.ru" 1055 90 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-28" 925 -10 60 H I C CNN "FP_AP"
 F8 "шт." 710 -80 60 H I C CNN "ID_AP"
-F9 "No" 700 -170 60 H I C CNN "Toleranc_AP"
+F9 "No" 700 -170 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 -250 -350 -350 N
 P 2 0 1 0 -350 250 300 250 N
@@ -174,7 +174,7 @@ F5 "ЗАО @Митракон@  тел. (495)959-8385" 1550 620 60 H I C CNN "Dis
 F6 "www.mitracon.ru" 1000 540 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-8" 900 440 60 H I C CNN "FP_AP"
 F8 "шт." 710 370 60 H I C CNN "ID_AP"
-F9 "No" 700 280 60 H I C CNN "Toleranc_AP"
+F9 "No" 700 280 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 250 300 250 N
 P 2 0 1 0 -100 250 -100 -250 N
@@ -205,7 +205,7 @@ F5 "ЗАО @МТ-Систем@ тел.(495)988-2073" 1600 220 60 H I C CNN "Dist
 F6 "www.mt-system.ru" 1105 140 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-16" 975 40 60 H I C CNN "FP_AP"
 F8 "шт." 760 -30 60 H I C CNN "ID_AP"
-F9 "No" 750 -120 60 H I C CNN "Toleranc_AP"
+F9 "No" 750 -120 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 250 300 250 N
 P 2 0 1 0 -100 250 -100 -250 N
@@ -236,7 +236,7 @@ F5 "ЗАО @МТ-Систем@ тел.(495)988-2073" 1550 620 60 H I C CNN "Dist
 F6 "www.mt-system.ru" 1055 540 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-16" 925 440 60 H I C CNN "FP_AP"
 F8 "шт." 710 370 60 H I C CNN "ID_AP"
-F9 "No" 700 280 60 H I C CNN "Toleranc_AP"
+F9 "No" 700 280 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 250 300 250 N
 P 2 0 1 0 -100 250 -100 -250 N
@@ -267,7 +267,7 @@ F5 "ЗАО @МТ-Систем@ тел.(495)988-2073" 1600 220 60 H I C CNN "Dist
 F6 "www.mt-system.ru" 1105 140 60 H I C CNN "DistributorPurtNumber"
 F7 "SMD; SO-16" 975 40 60 H I C CNN "FP_AP"
 F8 "шт." 760 -30 60 H I C CNN "ID_AP"
-F9 "No" 750 -120 60 H I C CNN "Toleranc_AP"
+F9 "No" 750 -120 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 250 300 250 N
 P 2 0 1 0 -100 250 -100 -250 N
@@ -298,7 +298,7 @@ F5 "@МТ-Систем@" 950 625 60 H I C CNN "Distributor_AP"
 F6 "www.mt-system.ru" 1055 540 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-8N" 925 440 60 H I C CNN "FP_AP"
 F8 "шт." 710 370 60 H I C CNN "ID_AP"
-F9 "No" 700 280 60 H I C CNN "Toleranc_AP"
+F9 "No" 700 280 60 H I C CNN "Tolerance_AP"
 DRAW
 P 2 0 1 0 -350 250 300 250 N
 P 2 0 1 0 -100 250 -100 -250 N

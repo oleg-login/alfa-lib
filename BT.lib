@@ -13,7 +13,7 @@ F5 "@МТ-Систем@  тел. (812)325-3685" 1070 230 60 H I C CNN "Distribut
 F6 "www.mt-system.ru" 640 150 60 H I C CNN "DistributorPartNumber"
 F7 "No" 280 -100 60 H I C CNN "FP_AP"
 F8 "шт." 290 70 60 H I C CNN "ID_AP"
-F9 "No" 280 -10 60 H I C CNN "Toleranc_AP"
+F9 "No" 280 -10 60 H I C CNN "Tolerance_AP"
 DRAW
 X + 1 100 0 100 L 39 39 1 0 P
 X - 2 -150 0 100 R 39 39 1 0 P
@@ -34,7 +34,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1230 650 6
 F6 "www.platan.ru" 410 570 60 H I C CNN "DistributorPartNumber"
 F7 "No" 160 330 60 H I C CNN "FP_AP"
 F8 "шт." 170 500 60 H I C CNN "ID_AP"
-F9 "No" 160 420 60 H I C CNN "Toleranc_AP"
+F9 "No" 160 420 60 H I C CNN "Tolerance_AP"
 DRAW
 X + 1 100 0 100 L 39 39 1 0 P
 X - 2 -150 0 100 R 39 39 1 0 P

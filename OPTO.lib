@@ -13,7 +13,7 @@ F5 "@Платан Компонентс@" 625 900 60 H I C CNN "Distributor_AP"
 F6 "www.platan.ru" 405 830 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SOP-4" 385 740 60 H I C CNN "FP_AP"
 F8 "шт. " 185 670 60 H I C CNN "ID_AP"
-F9 "No" 165 420 60 H I C CNN "Toleranc_AP"
+F9 "No" 165 420 60 H I C CNN "Tolerance_AP"
 $FPLIST
  KD-23.3
 $ENDFPLIST
@@ -70,7 +70,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1250 760 6
 F6 "www.platan.ru" 430 680 60 H I C CNN "DistributorPartNumber"
 F7 "SMD" 210 520 60 H I C CNN "FP_AP"
 F8 "шт." 190 460 60 H I C CNN "ID_AP"
-F9 "No" 180 600 60 H I C CNN "Toleranc_AP"
+F9 "No" 180 600 60 H I C CNN "Tolerance_AP"
 $FPLIST
  KD-23.3
 $ENDFPLIST

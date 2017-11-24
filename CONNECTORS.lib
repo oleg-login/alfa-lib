@@ -13,7 +13,7 @@ F5 "No" 700 355 60 H I C CNN "Distributor_AP"
 F6 "No" 690 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "No" 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -455 60 0 0 0 10 Normal 0 C C
@@ -80,7 +80,7 @@ F5 "No" 700 1255 60 H I C CNN "Distributor_AP"
 F6 "No" 690 1370 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 980 60 H I C CNN "FP_AP"
 F8 "No" 700 1170 60 H I C CNN "ID_AP"
-F9 "No " 710 1070 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 1070 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 1350 60 0 0 0 1 Normal 0 C C
 T 0 -150 445 60 0 0 0 10 Normal 0 C C
@@ -199,7 +199,7 @@ F5 "No" 700 1255 60 H I C CNN "Distributor_AP"
 F6 "No" 690 1370 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 980 60 H I C CNN "FP_AP"
 F8 "No" 700 1170 60 H I C CNN "ID_AP"
-F9 "No " 710 1070 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 1070 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 1350 60 0 0 0 1 Normal 0 C C
 T 0 -150 445 60 0 0 0 10 Normal 0 C C
@@ -318,7 +318,7 @@ F5 "No" 700 305 60 H I C CNN "Distributor_AP"
 F6 "No" 690 420 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 30 60 H I C CNN "FP_AP"
 F8 "No" 700 220 60 H I C CNN "ID_AP"
-F9 "No " 710 120 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 120 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 150 60 0 0 0 1 Normal 0 C C
 T 0 -150 50 60 0 0 0 2 Normal 0 C C
@@ -360,7 +360,7 @@ F5 "No" 700 2755 60 H I C CNN "Distributor_AP"
 F6 "No" 690 2870 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 2480 60 H I C CNN "FP_AP"
 F8 "No" 700 2670 60 H I C CNN "ID_AP"
-F9 "No " 710 2570 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 2570 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 2850 60 0 0 0 1.1 Normal 0 C C
 T 0 -150 2750 60 0 0 0 1.2 Normal 0 C C
@@ -559,7 +559,7 @@ F5 "No" 700 2755 60 H I C CNN "Distributor_AP"
 F6 "No" 690 2870 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 2480 60 H I C CNN "FP_AP"
 F8 "No" 700 2670 60 H I C CNN "ID_AP"
-F9 "No " 710 2570 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 2570 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 2850 60 0 0 0 1 Normal 0 C C
 T 0 -150 1945 60 0 0 0 10 Normal 0 C C
@@ -762,7 +762,7 @@ F5 "No" 700 2755 60 H I C CNN "Distributor_AP"
 F6 "No" 690 2870 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 2480 60 H I C CNN "FP_AP"
 F8 "No" 700 2670 60 H I C CNN "ID_AP"
-F9 "No " 710 2570 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 2570 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 2850 60 0 0 0 1.1 Normal 0 C C
 T 0 -150 2750 60 0 0 0 1.2 Normal 0 C C
@@ -961,7 +961,7 @@ F5 "No" 700 2755 60 H I C CNN "Distributor_AP"
 F6 "No" 690 2870 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 2480 60 H I C CNN "FP_AP"
 F8 "No" 700 2670 60 H I C CNN "ID_AP"
-F9 "No " 710 2570 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 2570 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 2850 60 0 0 0 1 Normal 0 C C
 T 0 -150 1945 60 0 0 0 10 Normal 0 C C
@@ -1164,7 +1164,7 @@ F5 "ООО @Аргуссофт@ тел. (495)660-2855" 1540 375 60 H I C CNN "Di
 F6 "www.argussoft.ru" 1010 490 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -1212,7 +1212,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1750 405 6
 F6 "www.platan.ru" 940 320 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 30 60 H I C CNN "FP_AP"
 F8 "шт." 700 220 60 H I C CNN "ID_AP"
-F9 "No " 710 120 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 120 60 H I C CNN "Tolerance_AP"
 $FPLIST
  BNC-144
 $ENDFPLIST
@@ -1257,7 +1257,7 @@ F5 "No" 700 305 60 H I C CNN "Distributor_AP"
 F6 "No" 690 420 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 30 60 H I C CNN "FP_AP"
 F8 "No" 700 220 60 H I C CNN "ID_AP"
-F9 "No " 710 120 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 120 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 150 60 0 0 0 1 Normal 0 C C
 T 0 -150 50 60 0 0 0 2 Normal 0 C C
@@ -1384,7 +1384,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1750 75 60
 F6 "www.platan.ru" 940 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1420,7 +1420,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1750 75 60
 F6 "www.platan.ru" 940 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1459,7 +1459,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1750 75 60
 F6 "www.platan.ru" 940 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1478,7 +1478,7 @@ P 3 0 0 0 -140 260 -80 260 -80 260 N
 P 2 0 1 0 -300 -100 -300 200 N
 P 2 0 1 0 0 -100 0 200 N
 P 2 0 1 0 300 -100 300 200 N
-X 1 1 500 50 200 L 50 50 1 1 I
+X 1 1 500 50 200 L 50 50 1 1 P
 X 2 2 500 -50 200 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
@@ -1495,7 +1495,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1750 75 60
 F6 "www.platan.ru" 940 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1534,7 +1534,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1800 175 6
 F6 "www.platan.ru" 990 80 60 H I C CNN "DistributorPartNumber"
 F7 "No" 740 -190 60 H I C CNN "FP_AP"
 F8 "шт." 750 0 60 H I C CNN "ID_AP"
-F9 "No " 760 -100 60 H I C CNN "Toleranc_AP"
+F9 "No " 760 -100 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1580,7 +1580,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1750 75 60
 F6 "www.platan.ru" 940 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -850 60 0 0 0 10 Normal 0 C C
@@ -1647,7 +1647,7 @@ F5 "ООО @Спецэлсервис@ тел. (495)585-8059" 1630 75 60 H I C CN
 F6 "www.specelservis.ru" 1070 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1683,7 +1683,7 @@ F5 "ООО @Спецэлсервис@ тел. (495)585-8059" 1630 75 60 H I C CN
 F6 "www.specelservis.ru" 1070 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1722,7 +1722,7 @@ F5 "ООО @Спецэлсервис@ тел. (495)585-8059" 1630 75 60 H I C CN
 F6 "www.specelservis.ru" 1070 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1767,7 +1767,7 @@ F5 "ООО @Спецэлсервис@ тел. (495)585-8059" 1630 75 60 H I C CN
 F6 "www.specelservis.ru" 1070 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1818,7 +1818,7 @@ F5 "ООО @Спецэлсервис@ тел. (495)585-8059" 1630 75 60 H I C CN
 F6 "www.specelservis.ru" 1070 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1875,7 +1875,7 @@ F5 "ООО @Спецэлсервис@ тел. (495)585-8059" 1630 75 60 H I C CN
 F6 "www.specelservis.ru" 1070 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -1938,7 +1938,7 @@ F5 "ООО @Терраэлектроника@ тел.(495)221-7804" 1820 340 60 
 F6 "www.terraelectronica.ru" 1270 430 60 H I C CNN "DistributorPartNumber"
 F7 "No " 830 20 60 H I C CNN "FP_AP"
 F8 "шт." 820 280 60 H I C CNN "ID_AP"
-F9 "No  " 855 100 60 H I C CNN "Toleranc_AP"
+F9 "No  " 855 100 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -250 400 60 0 0 0 1 Normal 0 C C
 T 0 -250 300 60 0 0 0 2 Normal 0 C C
@@ -1998,7 +1998,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -455 60 0 0 0 10 Normal 0 C C
@@ -2076,7 +2076,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -455 60 0 0 0 10 Normal 0 C C
@@ -2154,7 +2154,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -455 60 0 0 0 10 Normal 0 C C
@@ -2265,7 +2265,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -455 60 0 0 0 10 Normal 0 C C
@@ -2376,7 +2376,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -2433,7 +2433,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -2499,7 +2499,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -2556,7 +2556,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -2622,7 +2622,7 @@ F5 "Корпорация @Точка Опоры@ тел.(495) 956-3942" 1750 355
 F6 "www.fulcrum.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -455 60 0 0 0 10 Normal 0 C C
@@ -2685,7 +2685,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "SMD" 740 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 $FPLIST
  HDMI-19R
 $ENDFPLIST
@@ -2781,7 +2781,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -2829,7 +2829,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -455 60 0 0 0 10 Normal 0 C C
@@ -2892,7 +2892,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1760 295 6
 F6 "www.platan.ru" 950 410 60 H I C CNN "DistributorPartNumber"
 F7 "No" 700 20 60 H I C CNN "FP_AP"
 F8 "шт." 710 210 60 H I C CNN "ID_AP"
-F9 "No " 720 110 60 H I C CNN "Toleranc_AP"
+F9 "No " 720 110 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 400 60 0 0 0 1 Normal 0 C C
 T 0 -150 -500 60 0 0 0 10 Normal 0 C C
@@ -2966,7 +2966,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1760 295 6
 F6 "www.platan.ru" 950 410 60 H I C CNN "DistributorPartNumber"
 F7 "No" 700 20 60 H I C CNN "FP_AP"
 F8 "шт." 710 210 60 H I C CNN "ID_AP"
-F9 "No " 720 110 60 H I C CNN "Toleranc_AP"
+F9 "No " 720 110 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 400 60 0 0 0 1 Normal 0 C C
 T 0 -150 -500 60 0 0 0 10 Normal 0 C C
@@ -3037,7 +3037,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -455 60 0 0 0 10 Normal 0 C C
@@ -3100,7 +3100,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1760 295 6
 F6 "www.platan.ru" 950 410 60 H I C CNN "DistributorPartNumber"
 F7 "No" 700 20 60 H I C CNN "FP_AP"
 F8 "шт." 710 210 60 H I C CNN "ID_AP"
-F9 "No " 720 110 60 H I C CNN "Toleranc_AP"
+F9 "No " 720 110 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 400 60 0 0 0 1 Normal 0 C C
 T 0 -150 -500 60 0 0 0 10 Normal 0 C C
@@ -3174,7 +3174,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1760 295 6
 F6 "www.platan.ru" 950 410 60 H I C CNN "DistributorPartNumber"
 F7 "No" 700 20 60 H I C CNN "FP_AP"
 F8 "шт." 710 210 60 H I C CNN "ID_AP"
-F9 "No " 720 110 60 H I C CNN "Toleranc_AP"
+F9 "No " 720 110 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 400 60 0 0 0 1 Normal 0 C C
 T 0 -150 -500 60 0 0 0 10 Normal 0 C C
@@ -3238,14 +3238,14 @@ ENDDEF
 DEF J0011D21BNL XS 0 40 N N 1 F N
 F0 "XS" 160 660 60 H V C CNN
 F1 "J0011D21BNL" 30 -820 60 H V C CNN
-F2 "J0011D21BNL" 940 -40 60 H I C CNN
+F2 "dip:J0011D21BNL" 1050 -50 60 H I C CNN
 F3 "No" 690 50 60 H I C CNN
 F4 "Розетка" 805 570 60 H I C CNN "Description_AP"
 F5 "ЗАО @Альтекс@ тел. (495)109-9882" 1450 405 60 H I C CNN "Distributor_AP"
 F6 "www.altex-com.ru" 1040 500 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 140 60 H I C CNN "FP_AP"
 F8 "шт." 700 330 60 H I C CNN "ID_AP"
-F9 "No " 710 230 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 230 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -455 60 0 0 0 10 Normal 0 C C
@@ -3326,7 +3326,7 @@ F5 "ООО @Терраэлектроника@ тел.(495)221-7804" 1820 340 60 
 F6 "www.terraelectronica.ru" 1270 430 60 H I C CNN "DistributorPartNumber"
 F7 "No " 830 -40 60 H I C CNN "FP_AP"
 F8 "шт." 820 280 60 H I C CNN "ID_AP"
-F9 "No  " 855 40 60 H I C CNN "Toleranc_AP"
+F9 "No  " 855 40 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -250 400 60 0 0 0 1 Normal 0 C C
 T 0 -250 300 60 0 0 0 2 Normal 0 C C
@@ -3390,7 +3390,7 @@ F5 "ООО @Терраэлектроника@ тел.(495)221-7804" 1820 340 60 
 F6 "www.terraelectronica.ru" 1270 430 60 H I C CNN "DistributorPartNumber"
 F7 "No " 830 -40 60 H I C CNN "FP_AP"
 F8 "шт." 820 280 60 H I C CNN "ID_AP"
-F9 "No  " 855 40 60 H I C CNN "Toleranc_AP"
+F9 "No  " 855 40 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -250 400 60 0 0 0 1 Normal 0 C C
 T 0 -250 -500 60 0 0 0 10 Normal 0 C C
@@ -3459,7 +3459,7 @@ F5 "ООО @Терраэлектроника@ тел.(495)221-7804" 1820 340 60 
 F6 "www.terraelectronica.ru" 1270 430 60 H I C CNN "DistributorPartNumber"
 F7 "No " 830 -40 60 H I C CNN "FP_AP"
 F8 "шт." 820 280 60 H I C CNN "ID_AP"
-F9 "No  " 855 40 60 H I C CNN "Toleranc_AP"
+F9 "No  " 855 40 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -250 400 60 0 0 0 1 Normal 0 C C
 T 0 -250 -500 60 0 0 0 10 Normal 0 C C
@@ -3528,7 +3528,7 @@ F5 "ООО @Терраэлектроника@ тел. (495) 221-78-04" 1875 105 
 F6 "www.terraelectronica.ru" 1240 220 60 H I C CNN "DistributorPartNumber"
 F7 "SMD" 815 -70 60 H I C CNN "FP_AP"
 F8 "шт." 800 20 60 H I C CNN "ID_AP"
-F9 "No " 810 -180 60 H I C CNN "Toleranc_AP"
+F9 "No " 810 -180 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 150 60 0 0 0 1 Normal 0 C C
 T 0 -150 50 60 0 0 0 2 Normal 0 C C
@@ -3581,7 +3581,7 @@ F5 "ООО @Терраэлектроника@ тел. (495) 221-78-04" 1875 205 
 F6 "www.terraelectronica.ru" 1240 320 60 H I C CNN "DistributorPartNumber"
 F7 "SMD" 815 105 60 H I C CNN "FP_AP"
 F8 "шт." 800 -5 60 H I C CNN "ID_AP"
-F9 "No " 810 -105 60 H I C CNN "Toleranc_AP"
+F9 "No " 810 -105 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 150 150 60 0 0 0 +V Normal 0 C C
 T 0 -150 150 60 0 0 0 1 Normal 0 C C
@@ -3634,7 +3634,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -450 60 0 0 0 10 Normal 0 C C
@@ -3729,7 +3729,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 55 60
 F6 "www.platan.ru" 940 170 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -220 60 H I C CNN "FP_AP"
 F8 "шт." 700 -30 60 H I C CNN "ID_AP"
-F9 "No " 710 -130 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -130 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 150 60 0 0 0 1 Normal 0 C C
 T 0 -150 50 60 0 0 0 2 Normal 0 C C
@@ -3771,7 +3771,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -3826,7 +3826,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 105 6
 F6 "www.platan.ru" 940 220 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -170 60 H I C CNN "FP_AP"
 F8 "шт." 700 20 60 H I C CNN "ID_AP"
-F9 "No " 710 -80 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -80 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -3862,7 +3862,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 105 6
 F6 "www.platan.ru" 940 220 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -170 60 H I C CNN "FP_AP"
 F8 "шт." 700 20 60 H I C CNN "ID_AP"
-F9 "No " 710 -80 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -80 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -3902,7 +3902,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -450 60 0 0 0 10 Normal 0 C C
@@ -3963,7 +3963,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -450 60 0 0 0 10 Normal 0 C C
@@ -4033,7 +4033,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 -450 60 0 0 0 10 Normal 0 C C
@@ -4107,7 +4107,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -4155,7 +4155,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1800 305 6
 F6 "www.platan.ru" 990 420 60 H I C CNN "DistributorPartNumber"
 F7 "No" 740 30 60 H I C CNN "FP_AP"
 F8 "шт." 750 220 60 H I C CNN "ID_AP"
-F9 "No " 760 120 60 H I C CNN "Toleranc_AP"
+F9 "No " 760 120 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -4209,7 +4209,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 355 6
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -4263,7 +4263,7 @@ F5 "OOO @Феникс Контакт РУС@" 1260 300 60 H I C CNN "Distributor
 F6 "www.phoenixcontact.com" 1180 390 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 30 60 H I C CNN "FP_AP"
 F8 "шт." 700 220 60 H I C CNN "ID_AP"
-F9 "No " 710 120 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 120 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 150 60 0 0 0 1 Normal 0 C C
 T 0 -150 50 60 0 0 0 2 Normal 0 C C
@@ -4299,7 +4299,7 @@ F5 "OOO @Феникс Контакт РУС@" 1260 300 60 H I C CNN "Distributor
 F6 "www.phoenixcontact.com" 1180 390 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 30 60 H I C CNN "FP_AP"
 F8 "шт." 700 220 60 H I C CNN "ID_AP"
-F9 "No " 710 120 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 120 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 150 60 0 0 0 1 Normal 0 C C
 T 0 -150 50 60 0 0 0 2 Normal 0 C C
@@ -4338,7 +4338,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 105 6
 F6 "www.platan.ru" 940 220 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -170 60 H I C CNN "FP_AP"
 F8 "шт." 700 20 60 H I C CNN "ID_AP"
-F9 "No " 710 -80 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -80 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -4374,7 +4374,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 -45 6
 F6 "www.platan.ru" 940 70 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -320 60 H I C CNN "FP_AP"
 F8 "шт." 700 -130 60 H I C CNN "ID_AP"
-F9 "No " 710 -230 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -230 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -4416,7 +4416,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 -45 6
 F6 "www.platan.ru" 940 70 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -320 60 H I C CNN "FP_AP"
 F8 "шт." 700 -130 60 H I C CNN "ID_AP"
-F9 "No " 710 -230 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -230 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -4462,7 +4462,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 -45 6
 F6 "www.platan.ru" 940 70 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -320 60 H I C CNN "FP_AP"
 F8 "шт." 700 -130 60 H I C CNN "ID_AP"
-F9 "No " 710 -230 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -230 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -4512,7 +4512,7 @@ F5 "@Платан Компонентс@" 1150 375 60 H I C CNN "Distributor_AP"
 F6 "www.platan.ru" 940 470 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 80 60 H I C CNN "FP_AP"
 F8 "шт." 700 270 60 H I C CNN "ID_AP"
-F9 "No " 710 170 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 170 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 450 60 0 0 0 1 Normal 0 C C
 T 0 -150 350 60 0 0 0 2 Normal 0 C C
@@ -4563,7 +4563,7 @@ F5 "ООО @Терраэлектроника@ тел.(495)221-7804" 1820 340 60 
 F6 "www.terraelectronica.ru" 1270 430 60 H I C CNN "DistributorPartNumber"
 F7 "No " 830 -40 60 H I C CNN "FP_AP"
 F8 "шт." 820 280 60 H I C CNN "ID_AP"
-F9 "No  " 855 40 60 H I C CNN "Toleranc_AP"
+F9 "No  " 855 40 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -250 400 60 0 0 0 1 Normal 0 C C
 T 0 -250 -500 60 0 0 0 10 Normal 0 C C
@@ -4637,7 +4637,7 @@ F5 " @Бурый медведь@ тел. (495)988-90-10" 1550 85 60 H I C CNN "D
 F6 "www.brownbear.ru" 1020 0 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -4673,7 +4673,7 @@ F5 " @Бурый медведь@ тел. (495)988-90-10" 1550 85 60 H I C CNN "D
 F6 "www.brownbear.ru" 1020 0 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -4711,7 +4711,7 @@ F4 "Розетка" 750 5000 60 H I C CNN "Description_AP"
 F5 "www.harting.ru" 900 4900 60 H I C CNN "DistributorPartNumber"
 F6 "No" 650 4600 60 H I C CNN "FP_AP"
 F7 "шт." 650 4800 60 H I C CNN "ID_AP"
-F8 "No" 650 4700 60 H I C CNN "Toleranc_AP"
+F8 "No" 650 4700 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 150 5050 60 0 0 0 КОНТ Normal 0 C C
 T 0 -175 5050 60 0 0 0 ЦЕПЬ Normal 0 C C
@@ -5027,7 +5027,7 @@ F4 "Вилка на плату DIN41612F-0906-148-6901" 1625 2400 60 H I C CNN "
 F5 "www.harting.ru" 900 2300 60 H I C CNN "DistributorPartNumber"
 F6 "No" 650 1925 60 H I C CNN "FP_AP"
 F7 "шт." 650 2125 60 H I C CNN "ID_AP"
-F8 "No" 650 2025 60 H I C CNN "Toleranc_AP"
+F8 "No" 650 2025 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 150 2450 60 0 0 0 КОНТ Normal 0 C C
 T 0 -175 2450 60 0 0 0 ЦЕПЬ Normal 0 C C
@@ -5201,7 +5201,7 @@ F4 "Розетка" 750 2400 60 H I C CNN "Description_AP"
 F5 "www.harting.ru" 900 2300 60 H I C CNN "DistributorPartNumber"
 F6 "No" 650 2000 60 H I C CNN "FP_AP"
 F7 "шт." 650 2200 60 H I C CNN "ID_AP"
-F8 "No" 650 2100 60 H I C CNN "Toleranc_AP"
+F8 "No" 650 2100 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 150 2450 60 0 0 0 КОНТ Normal 0 C C
 T 0 -175 2450 60 0 0 0 ЦЕПЬ Normal 0 C C
@@ -5375,7 +5375,7 @@ F4 "Вилка" 700 3100 60 H I C CNN "Description_AP"
 F5 "www.harting.ru" 900 3000 60 H I C CNN "DistributorPartNumber"
 F6 "No" 650 2700 60 H I C CNN "FP_AP"
 F7 "шт." 650 2900 60 H I C CNN "ID_AP"
-F8 "No" 650 2800 60 H I C CNN "Toleranc_AP"
+F8 "No" 650 2800 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 150 3150 60 0 0 0 КОНТ Normal 0 C C
 T 0 -175 3150 60 0 0 0 ЦЕПЬ Normal 0 C C
@@ -5598,7 +5598,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1700 -145 
 F6 "www.platan.ru" 890 -30 60 H I C CNN "DistributorPartNumber"
 F7 "No" 640 -420 60 H I C CNN "FP_AP"
 F8 "шт." 650 -230 60 H I C CNN "ID_AP"
-F9 "No " 660 -330 60 H I C CNN "Toleranc_AP"
+F9 "No " 660 -330 60 H I C CNN "Tolerance_AP"
 DRAW
 A 100 -150 100 -899 899 0 1 0 N 100 -250 100 -50
 P 2 0 1 0 200 -100 220 -70 N
@@ -5627,7 +5627,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1700 -145 
 F6 "www.platan.ru" 890 -30 60 H I C CNN "DistributorPartNumber"
 F7 "No" 640 -420 60 H I C CNN "FP_AP"
 F8 "шт." 650 -230 60 H I C CNN "ID_AP"
-F9 "No " 660 -330 60 H I C CNN "Toleranc_AP"
+F9 "No " 660 -330 60 H I C CNN "Tolerance_AP"
 DRAW
 A 100 -150 100 -899 899 0 1 0 N 100 -250 100 -50
 P 2 0 1 0 200 -100 220 -70 N
@@ -5656,7 +5656,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1775 105 6
 F6 "www.platan.ru" 990 220 60 H I C CNN "DistributorPartNumber"
 F7 "No" 765 -70 60 H I C CNN "FP_AP"
 F8 "шт." 800 20 60 H I C CNN "ID_AP"
-F9 "No " 810 -180 60 H I C CNN "Toleranc_AP"
+F9 "No " 810 -180 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 150 60 0 0 0 1 Normal 0 C C
 T 0 -150 50 60 0 0 0 2 Normal 0 C C
@@ -5709,7 +5709,7 @@ F5 "OOO @ВАГО Контакт Рус@ тел. (495) 663-33-05" 1800 75 60 H I
 F6 "www.wago.ru" 940 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -5745,7 +5745,7 @@ F5 "ЗАО @Платан компонентс@ тел. (495)737-5999" 1750 75 60
 F6 "www.platan.ru" 940 -20 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -290 60 H I C CNN "FP_AP"
 F8 "шт." 700 -100 60 H I C CNN "ID_AP"
-F9 "No " 710 -200 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -200 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 50 60 0 0 0 1 Normal 0 C C
 T 0 -150 -50 60 0 0 0 2 Normal 0 C C
@@ -5784,7 +5784,7 @@ F5 "ЗАО @Платан Компонентс@ тел. (495)737-5999" 1750 155 6
 F6 "www.platan.ru" 940 270 60 H I C CNN "DistributorPartNumber"
 F7 "No" 690 -120 60 H I C CNN "FP_AP"
 F8 "шт." 700 70 60 H I C CNN "ID_AP"
-F9 "No " 710 -30 60 H I C CNN "Toleranc_AP"
+F9 "No " 710 -30 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 -150 200 60 0 0 0 1 Normal 0 C C
 T 0 -150 100 60 0 0 0 2 Normal 0 C C

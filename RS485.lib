@@ -13,7 +13,7 @@ F5 "ООО @Элтех@ тел. (495)788-5948" 1645 880 60 H I C CNN "Distributo
 F6 "www.eltech.spb.ru" 1220 790 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-20" 1125 670 60 H I C CNN "FP_AP"
 F8 "шт." 905 585 60 H I C CNN "ID_AP"
-F9 "No" 895 495 60 H I C CNN "Toleranc_AP"
+F9 "No" 895 495 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 0 950 60 0 0 0 RS485  Normal 0 C C
 P 3 0 0 0  -500 1050  -500 -350  -500 -350 N
@@ -63,7 +63,7 @@ F5 "ЗАО @Митракон@ тел. (495)959-8385" 1565 200 60 H I C CNN "Dist
 F6 "www.mitracon.ru" 1040 120 60 H I C CNN "DistributorPartNumber"
 F7 "SMD; SO-8" 935 20 60 H I C CNN "FP_AP"
 F8 "шт." 745 -55 60 H I C CNN "ID_AP"
-F9 "No" 735 -145 60 H I C CNN "Toleranc_AP"
+F9 "No" 735 -145 60 H I C CNN "Tolerance_AP"
 DRAW
 T 0 0 250 60 0 0 0 RS485  Normal 0 C C
 P 3 0 0 0  -400 -350  400 -350  400 -350 N
